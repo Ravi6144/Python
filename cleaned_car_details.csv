@@ -1,0 +1,882 @@
+brand,body_type,model_number,engine_type,drive_type,transmission_type,fuel_type,price
+Honda,sports car,S2000 EV 2024,Electric,Rear-Wheel Drive,Automatic,Gasoline,70335.5
+Honda,Coupe,Prelude 2026,Electric,Rear-Wheel Drive,Automatic,Electric,70335.5
+Honda,SUV,e:N SUV Concept,Electric,All Wheel Drive (AWD),Automatic,Electirc,70335.5
+Honda,SUV,N-Van 2025,3.5L V6 Gas,Front-wheel drive,Automatic,Gasoline,70335.5
+Honda,SUV,City 2025,Hybrid,All-Wheel Drive,Automatic,Gasoline,70335.5
+Honda,SUV,Pilot Black Edition AWD 2025,3.5L V6 Gas,All-Wheel Drive,10-Speed Automatic,Gasoline,82665.0
+Honda,SUV,Pilot Elite AWD 2025,3.5L V6 Gas,All-Wheel Drive,10-Speed Automatic,Gasoline,79685.0
+Honda,SUV,Pilot TrailSport AWD 2025,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,75692.0
+Honda,SUV,Pilot Touring 2025,3.5L V6 Gas,Front wheel drive,Automatic,Gasoline,71371.0
+Honda,SUV,Pilot EX-L 2WD 2025,3.5L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,67795.0
+Honda,SUV,Pilot Sport 2WD 2025,3.5L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,60494.0
+Honda,Minivan,Odyssey Sport-L 2025,3.5L V6 ICE,Front-Wheel Drive,10-speed automatic,Gasoline,77629.0
+Honda,Minivan,Odyssey Elite 2025,3.5L V6 ICE,Front-Wheel Drive,10-speed automatic,Gasoline,76139.0
+Honda,Hatchback,Civic Sport Touring Hybrid 2025,2.0-Liter with Two Electric Motors,Front-wheel Drive,Continuously Variable Automatic (CVT),Hybrid,52150.0
+Honda,Minivan,Odyssey Touring 2025,3.5L V6 ICE,Front-Wheel Drive,10-speed automatic,Gasoline,68689.0
+Honda,Minivan,Odyssey EX-L 2025,3.5-liter V6 Gas,Front-Wheel Drive,Automatic,Gasoline,62461.0
+Honda,SUV,Elevate Apex Edition,1.5 i-VTEC with VTC,FWD,Automatic,Petrol,22842.0
+Honda,SUV,Elevate SV MT 2024,1.5 i-VTEC with VTC,FWD,Manual,Petrol,21233.0
+Honda,SUV,Elevate V MT 2024,1.5 i-VTEC with VTC,FWD,Manual,Petrol,22648.0
+Honda,SUV,Elevate V CVT 2024,1.5 i-VTEC with VTC,FWD,Automatic,Petrol,24436.0
+Honda,SUV,Elevate VX MT 2024,1.5 i-VTEC with VTC,FWD,Manual,Petrol,25181.0
+Honda,SUV,Elevate VX CVT 2024,1.5 i-VTEC with VTC,FWD,Automatic,Petrol,26597.0
+Honda,SUV,Elevate ZX MT 2024,1.5 i-VTEC with VTC,FWD,Manual,Petrol,27416.0
+Honda,SUV,Elevate ZX CVT 2024,1.5 i-VTEC with VTC,FWD,Automatic,Petrol,29353.0
+Honda,SUV,Elevate ZX CVT Dual Tone 2024,1.5 i-VTEC with VTC,FWD,Automatic,Petrol,29800.0
+Honda,Sedan,City 1.5L ASPIRE M/T 2024,1.5-liter inline-4 petrol engine,FWD,Manual,Petrol,30143.0
+Honda,SUV,Ye S7 2025,Electric,All Wheel Drive (AWD),Automatic,Electirc,52150.0
+Honda,Sedan,Civic Si 2025,1.5-Liter Inline-4 Engine,Front-Wheel Drive,Manual,Premium,46339.0
+Honda,SUV,Passport Trailsport 2026,3.5-liter DOHC V6 engine,All-Wheel Drive,Automatic,Petrol,67050.0
+Honda,SUV,CR-V e:FCEV 2025,Plug-In Hydrogen Fuel Cell EV,Front-Wheel Drive,Automatic,plug-in hybrid,74500.0
+Honda,SUV,Amaze 2025,1.2-litre naturally aspirated petrol,Rear-Wheel Drive,5-speed manual and 7-speed CVT,Gasoline,14155.0
+Honda,SUV,Civic Sedan 2025,Two-motor hybrid system paired with a 2.0-liter Atkinson-cycle four-cylinder,Rear-Wheel Drive,Automatic,Hybrid,44700.0
+Honda,SUV,Freed 2024,Hybrid,All-wheel drive,Automatic,Gasoline,44700.0
+Honda,SUV,Ridgeline 2026,3.5L Inline-6 Gas,All-Wheel Drive,Automatic,Petrol,63325.0
+Honda,SUV,Elevate 2025,1.5-liter i-VTEC,Front-Wheel Drive,Continuously variable transmission (CVT),Gasoline,29800.0
+Honda,SUV,Prologue EX AWD 2024,Electric,All-Wheel Drive,Automatic,Electirc,67050.0
+Honda,SUV,Prologue EX 2024,Electric,Front-Wheel Drive,Automatic,Electirc,59600.0
+Honda,SUV,CR-V e FCEV 2025,single front-mounted electric motor that makes 174 hp (130 kW / 176 PS) and 229 lb-ft (311 Nm) of torque,Front-Wheel Drive,Automatic,Gasoline,43955.0
+Honda,Hatchback,Civic Hatchback 2025,2.0L Inline-4 Gas,Front wheel drive,6-Speed Manual,Gasoline,46190.0
+Honda,Sedan,Civic RS 2024,Petrol,Front wheel drive,Automatic (CVT),Petrol,52582.0
+Honda,Sedan,Civic Oriel 2024,3.5L V6 Gas,Rear-Wheel Drive,Automatic (CVT),Petrol,45996.0
+Honda,Sedan,Civic Standard 2024,Petrol,Front-Wheel Drive,Automatic (CVT),Petrol,44238.0
+Honda,SUV,Pilot Type R 2025,3.5L V6,All-Wheel Drive,Automatic,Gasoline,67050.0
+Honda,SUV,Pilot Hybrid 2025,3.5L V6 Hybrid,All-Wheel Drive,Automatic,Gasoline,74500.0
+Honda,SUV,Passport Hybrid 2025,3.5-liter V6 Hybrid,All-Wheel Drive,Automatic,Gasoline,73010.0
+Honda,SUV,HR-V EX-L AWD CVT 2024,2.0L Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,44253.0
+Honda,SUV,HR-V Sport AWD CVT 2024,2.0L Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,40454.0
+Honda,SUV,HR-V LX AWD CVT 2024,2.0L Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,38144.0
+Honda,Coupe,Prelude Hybrid 2024,Electric,Rear-Wheel Drive,Automatic,Electric,45147.0
+Honda,SUV,Passport Black 2024,3.5-liter V6 Gas,All-Wheel Drive,Automatic,Gasoline,71475.0
+Honda,SUV,Ridgeline TrailSport 2024,3.5L Inline-6 Gas,All-Wheel Drive,Automatic,Petrol,69062.0
+Honda,SUV,Pilot Touring AWD 2024,3.5L V6 Gas,All wheel drive,Automatic,Gasoline,73010.0
+Honda,SUV,Pilot EX-L AWD 2024,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,66305.0
+Honda,SUV,Pilot Sport AWD 2024,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,62133.0
+Honda,SUV,Pilot LX AWD 2024,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,55264.0
+Honda,SUV,Pilot LX 2024,3.5L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,55264.0
+Honda,SUV,Prologue Elite 2024,Electric,All Wheel Drive (AWD),Automatic,Electirc,59600.0
+Honda,SUV,Civic Hybrid 2025,Two-motor hybrid system paired with a 2.0-liter Atkinson-cycle four-cylinder,Rear-Wheel Drive,Automatic,Hybrid,44700.0
+Honda,SUV,Passport 2025,3.5-liter V6 Gas,All-Wheel Drive,Automatic,Gasoline,67050.0
+Honda,Sedan,Accord CGI Virtual 2025,2.0L Inline-4 Hybrid,All-Wheel Drive,Automatic,Hybrid,43210.0
+Honda,SUV,Hydrogen Fuel-Cell CR-V 2024,2.0L Inline-4 Hybrid,Front-Wheel Drive,Continuously Variable Automatic (CVT),Hybrid,76512.0
+Honda,SUV,N-Van E 2024,3.5L V6 Gas,Front-wheel drive,Automatic,Gasoline,9983.0
+Honda,SUV,Prologue 2025,Electric,All Wheel Drive (AWD),Automatic,Electirc,72697.0
+Honda,SUV,Ridgeline 2024,3.5L Inline-6 Gas,All-Wheel Drive,Automatic,Petrol,59228.0
+Honda,SUV,CR-V 2025,1.5L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,46861.0
+Bmw,Sports,9 Series Luxury Sports,Turbo 4-Cylinder Gas,All-Wheel Drive,Automatic,Gasoline,70335.5
+Bmw,Hypercar,M Hybrid V8 2025,4.0-liter V-8,All-Wheel Drive,Automatic,Gasoline,70335.5
+Bmw,Hypercar,M Hybrid V8 2024,4.0-liter V-8,All-Wheel Drive,Automatic,Gasoline,70335.5
+Bmw,SUV,iX6 2025,3.0L Turbo Inline-6 Gas,All-Wheel Drive,Automatic,Gasoline,70335.5
+Bmw,Pickup truck,XM Pickup,Electric,All Wheel Drive (AWD),Automatic,Hybrid,70335.5
+Bmw,Coupe,M235 Gran Coupe 2025,Turbocharged 2.0-liter B48,All Wheel Drive,Automatic,Petrol,121584.0
+Bmw,SUV,X5 xDrive40i xLine,TwinPower Turbo 6-cylinder,All-Wheel Drive,Automatic,Petrol,195041.0
+Bmw,Coupe,8 Series 840i xDrive Coupe 2025,3.0L Turbo Inline-6 Gas,All Wheel Drive,Automatic,Gasoline,139762.0
+Bmw,SUV,iX M60 Sports Activity Vehicle 2025,Electric,All-Wheel Drive,Automatic,Electric,166135.0
+Bmw,SUV,X7 M60i 2025,4.4L Twin-Turbo V8 MildHybrid,All-Wheel Drive,Automatic,Gasoline,165241.0
+Bmw,SUV,X7 xDrive40i 2025,3.0L Turbo Inline-6 MildHybrid,All Wheel Drive,8-Speed Automatic,Gasoline,124415.0
+Bmw,SUV,iX xDrive50 Sports Activity Vehicle 2025,Electric,All-Wheel Drive,Single Speed Automatic,Electric,130003.0
+Bmw,SUV,X6 M Sports Activity Coupe 2025,4.4L V8,All-Wheel Drive,Automatic,Gasoline,193253.0
+Bmw,Convertible,Z4 Manual 2025,3.0-liter Turbo Inline-6 Gas,Real Wheel Drive,Manual,Gasoline,100873.0
+Bmw,SUV,X3 M50 xDrive Sports Activity Vehicle 2025,3L I6 Hybrid,All-Wheel Drive,8-speed automatic,Gasoline,95509.0
+Bmw,SUV,X3 30 xDrive Sports Activity Vehicle 2025,2L I4 Hybrid,All-Wheel Drive,8-speed automatic,Gasoline,73755.0
+Bmw,Sedan,i5 xDrive40 Sedan 2025,Electric,All-Wheel Drive,Automatic,Electric,104449.0
+Bmw,Sedan,i5 eDrive40 Sedan 2025,Electric,Rear-Wheel Drive,Automatic,Electric,99979.0
+Bmw,SUV,X6 M60i 2025,4.4L Twin-Turbo V8 MildHybrid,All-Wheel Drive,Automatic,Gasoline,139464.0
+Bmw,SUV,X6 xDrive40i 2025,3.0L Turbo Inline-6 MildHybrid,All-Wheel Drive,Automatic,Gasoline,111005.0
+Bmw,SUV,X7 Signature Edition,3.0L Turbo Inline-6 Gas,All-Wheel Drive,Automatic,Gasoline,120541.0
+Bmw,Sedan,3 Series M Sport Pro Edition,2.0-Liter Diesel,All-wheel Drive,Automatic,Diesel,115475.0
+Bmw,SUV,X3 M Performance 2025,3.0L Twin-Turbo Inline-6 Gas,All-Wheel Drive,Automatic,Gasoline,99830.0
+Bmw,Coupe,i5 xDrive40 2024,Single electric motor,Rear-Wheel Drive,Automatic,Electric,101022.0
+Bmw,Sedan,BMW 5 Series 530Li,1.9-liter inline-4 cylinder engine,All-Wheel Drive,Automatic,Gasoline,129362.0
+Bmw,SUV,X3 M50 xDrive 2025,plug-in-hybrid turbocharged 2.0-liter four-cylinder engine with a single,All-Wheel Drive,Automatic,Gasoline,97252.0
+Bmw,SUV,X5 Silver Anniversary Edition,3.0L Turbo Inline-6 Gas,All-Wheel Drive,Automatic,Gasoline,121435.0
+Bmw,Coupe,M2 2026,3.0L Twin-Turbo Inline-6 Gas,Rear-wheel drive,"6-Speed Manual (7-Speed Automatic +$2,900)",Premium,113344.0
+Bmw,Hatchback,M135 xDrive 2025,2.0-litre turbocharged four-cylinder petrol engine with 221kW/400Nm in Europe,All-Wheel Drive,Automatic,Gasoline,89400.0
+Bmw,Sedan,3-Series Sedan 2025,2.0-liter four-cylinder turbocharged mild-hybrid,Rear-Wheel Drive,8-speed Automatic,Gasoline,67795.0
+Bmw,SUV,3 Series Touring 2025,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,70030.0
+Bmw,Sedan,M3 Competition xDrive Sedan 2025,3.0L Twin-Turbo Inline-6 Gas,All-Wheel Drive,Automatic,Gasoline,128840.0
+Bmw,Sedan,M3 Competition Sedan 2025,3.0-liter Twin-Turbo Inline-6,Rear-Wheel Drive,Automatic,Gasoline,121241.0
+Bmw,Sedan,M340i xDrive Sedan 2025,3.0L Turbo Inline-6,All-Wheel Drive,Automatic,Gasoline,93527.0
+Bmw,Sedan,M340i Sedan 2025,3.0L Turbo Inline-6,Rear-Wheel Drive,Automatic,Gasoline,90547.0
+Bmw,Sedan,330i xDrive Sedan 2025,2.0-liter Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,72518.0
+Bmw,Sedan,330i Sedan 2025,2.0-liter Turbo Inline-4 Gas,Rear-Wheel Drive,Automatic,Gasoline,69538.0
+Bmw,Sedan,3 Series 2025,Turbocharged 2.0-liter four-cylinder,All-Wheel Drive,Automatic,Gasoline,70030.0
+Bmw,Wagon,i5 M60 Touring 2025,Fully electric with a dual-motor,All Wheel Drive,Automatic,Gasoline,164153.0
+Bmw,SUV,X5 M Competition 2025,4.4L Twin-Turbo V8 Gas,All-Wheel Drive,Automatic,Gasoline,185952.0
+Bmw,Sedan,M5 PHEV 2025,Plug-in hybrid,All-Wheel Drive,Automatic,Plug-in hybrid,178800.0
+Bmw,Coupe,M4 CSL 2025,3.0L Twin-Turbo Inline-6 Gas,Rear-Wheel Drive,Automatic,Gasoline,186250.0
+Bmw,SUV,Pickup Truck,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,89400.0
+Bmw,Hatchback,i4 M50 xDrive 2025,Electric,All-Wheel Drive,Automatic,Electric,80460.0
+Bmw,Hatchback,M440i xDrive Gran Coupe 2025,3.0L Turbo Inline-6 Gas,All-Wheel Drive,Automatic,Premium,96925.0
+Bmw,SUV,iX 2026,Electric,All-Wheel Drive,Single Speed Automatic,Electric,134100.0
+Bmw,SUV,X1 2025,2.0L Turbo Inline-4 Gas,All-Wheel Drive,7-Speed dual clutch Automatic,Gasoline,61686.0
+Bmw,SUV,X7 2026,3.0L Turbo Inline-6 Gas,All-Wheel Drive,Automatic,Gasoline,119200.0
+Bmw,SUV,iX3 2026,Electric,Rear Wheel Drive,Automatic,Electric,111750.0
+Bmw,Convertible,Z4 Roadster 2025,3.0-liter Turbo Inline-6 Gas,Real Wheel Drive,Automatic,Gasoline,82248.0
+Lexus,SUV,Modular EV Concept,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Lexus,SUV,Modular EV Concept,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Lexus,Coupe,Electric Hypercar,Electric with dual Motor,All-Wheel Drive,Automatic,Electric,70335.5
+Lexus,Hatchback,LF-ZC Concept,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Lexus,Coupe,Hyper Force Concept,Electric,Rear-Wheel Drive,Single Speed Automatic,Electric,70335.5
+Lexus,SUV,LX700h 2025,3.5-liter twin-turbo V6,All-Wheel Drive,Automatic,Hybrid,163900.0
+Lexus,Coupe,LC 500h 2025,3.5L V6 Hybrid,Rear-Wheel Drive,Continuously Variable Automatic (CVT),Hybrid,154215.0
+Lexus,Convertible,LC 500 Convertible 2025,5.0-liter V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,149745.0
+Lexus,Sedan,ES 300h Luxury Plus Edition,2.5-liter A25A-FXS I4,Front-Wheel Drive,Automatic,Hybrid,123819.0
+Lexus,Sedan,GS F 2026,V8 Hybrid,Rear-wheel drive,8-speed automatic,Gasoline,134100.0
+Lexus,SUV,LBX Morizo RR 2025,1.6L Turbo 3-cylinder,All-Wheel Drive,Automatic,Gasoline,61984.0
+Lexus,SUV,NX 2026,2.5L Inline-4 Gas,Front-Wheel Drive,Automatic,Premium,61090.0
+Lexus,Sedan,ES Hybrid Sedan 2024,2.5L Inline-4 Hybrid,Front Wheel Drive (FWD),Continuously Variable Automatic (CVT),Hybrid,64726.0
+Lexus,SUV,LBX 2025,"three-cylinder, 1.5-liter",Front-Wheel Drive,Automatic,Gasoline,59600.0
+Lexus,SUV,RZ 300e Luxury 2024,Electric,Front-Wheel Drive,Single Speed Automatic,Electric,88998.0
+Lexus,SUV,RZ 300e Premium 2024,Electric,Front-Wheel Drive,Single Speed Automatic,Electric,80460.0
+Lexus,SUV,RZ 2025,Electric,Front-Wheel Drive,Automatic,Electric,74500.0
+Lexus,SUV,UX 2024,2.0L Inline-4 Hybrid,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,52955.0
+Lexus,SUV,LX 2025,3.5L V6 Gas,Four-Wheel Drive,Automatic,Premium,134100.0
+Lexus,SUV,RX 2025,2.4L Turbo Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,74500.0
+Lexus,SUV,NX Hybrid 2025,2.5L Inline-4 Hybrid,All-Wheel Drive,Continuously Variable Automatic (CVT),Premium,62580.0
+Lexus,Coupe,RC 2025,2.0-liter Turbo Inline-4 Gas,Rear-Wheel Drive,8-Speed Automatic,Gasoline,104300.0
+Lexus,Sedan,LS Hybrid 2024,3.5L V6 Hybrid,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,170173.0
+Lexus,Sedan,IS 500 2025,5.0L V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,62580.0
+Lexus,Sedan,ES Hybrid 2025,2.5L Inline-4 Hybrid,Front Wheel Drive (FWD),Continuously Variable Automatic (CVT),Hybrid,59600.0
+Lexus,SUV,RZ 450e F Sport Performance 2024,Electric,All-Wheel Drive,Automatic,Electric,87165.0
+Lexus,SUV,LBX Morizo RR,"three-cylinder, 1.5-liter",All-Wheel Drive,Automatic,Gasoline,61984.0
+Lexus,SUV,GX 550 Overtrail JAOS Concept,4.6L V8 Gas,Four-Wheel Drive,Automatic,Premium,95733.0
+Lexus,SUV,GX 550 2025,4.6L V8 Gas,Four-Wheel Drive,Automatic,Premium,96850.0
+Lexus,Coupe,RC F 2025,5.0L V8 Gas,Rear-Wheel Drive,Automatic,Premium unleaded,104300.0
+Lexus,SUV,UXh 2025,2.0L Inline-4 Hybrid,Front-Wheel Drive,Continuously Variable Automatic (CVT),Hybrid,55875.0
+Lexus,SUV,GX 550 Luxury Plus 2024,3.4L Twin-Turbo V6 Gas,Four-Wheel Drive,Automatic,Premium,119051.0
+Lexus,SUV,GX 550 Overtrail Plus 2024,3.4L Twin-Turbo V6 Gas,Four-Wheel Drive,Automatic,Premium,113091.0
+Lexus,SUV,GX 550 Premium Plus 2024,3.4L Twin-Turbo V6 Gas,Four-Wheel Drive,Automatic,Premium,101171.0
+Lexus,SUV,RZ550e 2024,Electric,All-Wheel Drive,Automatic,Electric,82174.0
+Lexus,Sedan,ES Hybrid 2024,2.5L Inline-4 Hybrid,Front Wheel Drive (FWD),Continuously Variable Automatic (CVT),Hybrid,64726.0
+Lexus,Sedan,ES 300h F SPORT Handling 2024,2.5L Inline-4 Hybrid,Front-Wheel Drive,Continuously Variable Automatic (CVT),Hybrid,74098.0
+Lexus,Sedan,ES 250 Luxury 2024,2.5L Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,70343.0
+Lexus,Sedan,ES 350 F SPORT Design 2024,3.5L V6 Gas,Front Wheel Drive,Automatic,Gasoline,69464.0
+Lexus,Hatchback,HZ550e 2024,Electric,All-Wheel Drive,Automatic,Electric,80460.0
+Lexus,Hatchback,HZ450e 2024,Electric,All-Wheel Drive,Automatic,Electric,82174.0
+Lexus,Hatchback,HZ 2024,Electric,All-Wheel Drive,Automatic,Electric,95733.0
+Lexus,SUV,LX600 Premium 2023,3500 cc,Four-Wheel Drive,Automatic,Gasoline,129481.0
+Lexus,SUV,LF-ZL Concept,Dual electric motors,All-Wheel Drive,Manual,Electric,96850.0
+Lexus,Sedan,IS 2025,3.5-liter V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,62580.0
+Lexus,SUV,GX 2025,3.4L Twin-Turbo V6 Gas,Four-Wheel Drive,Automatic,Premium,96850.0
+Lexus,SUV,NX 350h 2024,2.5L Inline-4 Hybrid,All-Wheel Drive,Continuously Variable Automatic (CVT),Premium,64145.0
+Lexus,SUV,NX 2025,2.5L Inline-4 Gas,Front-Wheel Drive,Automatic,Premium,62580.0
+Lexus,Convertible,LC Convertible 2025,5.0-liter V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,159877.0
+Lexus,Coupe,LC Coupe 2025,3.5-liter V6 Hybrid,RWD,Automatic,Hybrid,144530.0
+Lexus,SUV,TX 550h Plus 2024,3.5L Turbo V6 Hybrid,All Wheel Drive,Automatic,Gasoline,122284.0
+Lexus,SUV,LX 2025,3.5L V6,Four-Wheel Drive,Automatic,Gasoline,88655.0
+Lexus,Sedan,ES 2025,3.5-liter V6,Front Wheel Drive (FWD),Automatic,Gasoline,64353.0
+Lexus,SUV,RX F Sport Design Package 2024,2.4-liter turbocharged,All Wheel Drive (AWD),Automatic,Plug-in hybrid,104419.0
+Lexus,SUV,TX 350 2024,2.4L Turbo Inline-4 Gas,Front Wheel Drive,Automatic,Gasoline,94868.0
+Lexus,SUV,TX 550h 2024,3.5L Turbo V6 Hybrid,All Wheel Drive,Automatic,Gasoline,119304.0
+Lexus,SUV,RX 450h Plus 2024,Plug-in hybrid,All Wheel Drive (AWD),Automatic,Plug-in hybrid,104419.0
+Lexus,Convertible,LC 500 Convertible 2024,5.0-liter V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,156748.0
+Lexus,SUV,NX 350 Luxury 2024,2.4L Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Premium,73085.0
+Lexus,SUV,NX 350h Premium 2024,2.5L Inline-4 Hybrid,All-Wheel Drive,Continuously Variable Automatic (CVT),Premium,68689.0
+Lexus,SUV,UX 250h  2023,2.0L Inline-4 Hybrid,Front-Wheel Drive,Continuously Variable Automatic (CVT),Hybrid,56620.0
+Lexus,SUV,UX 250h F SPORT HANDLING 2024,2.0L Inline-4 Hybrid,Front-Wheel Drive,Continuously Variable Automatic (CVT),Hybrid,64025.0
+Lexus,SUV,UX 300e 73kWh 2024,Electric,Front Wheel Drive,Automatic,Electric,55011.0
+Lexus,SUV,RZ 450e 2024,Electric,All-Wheel Drive,Automatic,Electric,96850.0
+Toyota,Hatchback,Corolla 1.6 2025,1.6L Turbo Inline-3 Gas,All-Wheel Drive,Manual,Gasoline,70335.5
+Toyota,SUV,C-HR 2025,plug-in hybrid,All-Wheel Drive,Automatic,Gasoline,70335.5
+Toyota,Truck,Hilux EV 2024,Electric,All-Wheel Drive,Automatic,Gasoline,70335.5
+Toyota,Coupe,Supra GRMN 2025,"In-line six-cylinder, single twin-scroll turbocharger",Rear-Wheel Drive,Modified ZF automatic transmission with paddle shift,ATL FT3 safety fuel cell with fast refuelling system (120 litres),70335.5
+Toyota,Coupe,GR H2 Racing,"In-line six-cylinder, single twin-scroll turbocharger",Rear-Wheel Drive,Modified ZF automatic transmission with paddle shift,ATL FT3 safety fuel cell with fast refuelling system (120 litres),70335.5
+Toyota,SUV,Sequoia 1794 Edition 4WD 2025,3.4L I-FORCE V6 Hybrid,Four-Wheel Drive,Automatic,Regular,119260.0
+Toyota,SUV,Sequoia TRD Pro 4WD 2025,3.4L I-FORCE V6 Hybrid,Four-Wheel Drive,Automatic,Regular,119260.0
+Toyota,Hatchback,Glanza Sport,1.2L Petrol,FWD,Manual or Automatic (both available in this model),Petrol,15958.0
+Toyota,SUV,Sequoia Platinum 4WD 2025,3.4L Twin-Turbo V6 Hybrid,Four-Wheel Drive,Automatic,Regular,118187.0
+Toyota,SUV,Sequoia Limited 4WD 2025,3.4L I-FORCE V6 Hybrid,Four-Wheel Drive,Automatic,Regular,106639.0
+Toyota,SUV,Sequoia Limited RWD 2025,3.4L I-FORCE V6 Hybrid,Rear-Wheel Drive,Automatic,Gasoline,102169.0
+Toyota,SUV,Sequoia SR5 4WD 2025,3.4L I-FORCE V6 Hybrid,Four-Wheel Drive,Automatic,Regular,97103.0
+Toyota,SUV,Sequoia SR5 RWD 2025,3.4L I-FORCE V6 Hybrid,Rear-Wheel Drive,Automatic,Gasoline,92633.0
+Toyota,coupe,GR Supra 3.0 Premium Auto 2025,3L I6 ICE,Rear-Wheel Drive,Automatic,Gallons,88506.0
+Toyota,Compact MPV,Rumion Special Edition,1.5-litre K-series (Petrol / CNG),Four-Wheel Drive,Manual or Automatic,Petrol or CNG,19370.0
+Toyota,coupe,GR Supra 3.0 Premium Manual 2025,3L I6 ICE,Rear-Wheel Drive,Manual,Gallons,88506.0
+Toyota,coupe,GR Supra 3.0 Auto 2025,3L I6 ICE,Rear-Wheel Drive,Manual,Gallons,83813.0
+Toyota,coupe,GR Supra 3.0 Manual 2025,3L I6 ICE,Rear-Wheel Drive,Manual,Gallons,83813.0
+Toyota,Hatchback,Corolla Hatchback Nightshade Edition CVT 2025,2L Dynamic Force I4 ICE,Front-Wheel Drive,Automatic/CVT,Gallons,36505.0
+Toyota,Hatchback,Corolla Hatchback XSE CVT 2025,2L Dynamic Force I4 ICE,Front-Wheel Drive,Automatic/CVT,Gallons,39932.0
+Toyota,Hatchback,Corolla Hatchback SE CVT 2025,2L Dynamic Force I4 ICE,Front-Wheel Drive,Automatic/CVT,Gallons,35015.0
+Toyota,SUV,Taisor Limited Edition,1.0L Turbo petrol,Rear-Wheel Drive,Manual / Automatic,Petrol,18774.0
+Toyota,SUV,Urban Cruiser Hyryder Festival Edition,1.5-litre petrol engine with electric moto,All-Wheel Drive,Manual / Automatic,Petrol,25777.0
+Toyota,Sedan,Camry XLE FWD 2025,2.5L Dynamic Force I4 Hybrid,Front-wheel drive,CVT,Hybrid,49766.0
+Toyota,SUV,Rumion S CNG,1.5-Liter CNG Engine,Front Wheel Drive,Manual,CNG,20264.0
+Toyota,SUV,Rumion G MT,1.5-Liter Petrol,Front Wheel Drive,Manual,Petrol,20711.0
+Toyota,SUV,Rumion S MT,1.5-Liter Petrol,Front Wheel Drive,Manual,Petrol,18625.0
+Toyota,Coupe,GR86 Trueno Edition 2024,2.4-Liter,Rear-Wheel Drive,Manual,Petrol,54385.0
+Toyota,SUV,Highlander 25th Edition 2025,2.4-Liter,All-wheel Drive,Automatic,Gasoline,61090.0
+Toyota,Sedan,Crown Nightshade AWD 2025,2.5L Inline-4 Hybrid,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,72995.0
+Toyota,Sedan,Crown Limited 2025,2.5L I4 Hybrid,All-Wheel Drive,CVT,Hybrid,68466.0
+Toyota,Sedan,Crown Platinum 2025,2.4L I4 Hybrid,All-Wheel Drive,6-speed automatic,Hybrid,81935.0
+Toyota,Sedan,Crown XLE 2025,2.5L I4 Hybrid,All-Wheel Drive,Continuously Variable Automatic (CVT),Hybrid,61746.0
+Toyota,Sedan,Camry XLE 2025,2.5L Dynamic Force I4 Hybrid,Front-wheel drive,CVT,Hybrid,49766.0
+Toyota,Sedan,Camry LE 2025,2.5L Dynamic Force I4 Hybrid,Front-wheel drive,CVT,Hybrid,42316.0
+Toyota,Sedan,Camry XSE 2025,2.5L Dynamic Force I4 Hybrid,Front-wheel drive,CVT,Hybrid,51554.0
+Toyota,Double Cab,Hilux Hybrid 48V 2024,2.8-litre twin-turbo V8,All-Wheel Drive,Automatic,Hybrid,81950.0
+Toyota,MUV,Rumion G AT,1.5-Liter,Front Wheel Drive,Automatic,Petrol,21307.0
+Toyota,MUV,Rumion G AT,1.5-Liter,Front Wheel Drive,Automatic,Petrol,23095.0
+Toyota,MUV,Rumion V MT,1.5-Liter,Front Wheel Drive,Manual,Petrol,21873.0
+Toyota,MUV,Rumion V AT,1.5-Liter,Front Wheel Drive,Automatic,Petrol,24585.0
+Toyota,Hatchback,GR Starlet 2026,Turbocharged 1.3-liter,Front-wheel drive,six-speed manual,Petrol,38591.0
+Toyota,Pickup Truck,Hilux STD 4X4 MT,Four Cylinder Inline Turbocharged,Four-Wheel Drive,Automatic,Diesel,53938.0
+Toyota,Pickup Truck,Hilux High 4X4 AT,Four Cylinder Inline Turbocharged,Four-Wheel Drive,Automatic,Diesel,65858.0
+Toyota,Pickup Truck,Hilux High 4X4 MT,Four Cylinder Inline Turbocharged,Four-Wheel Drive,Manual,Diesel,65933.0
+Toyota,Hatchback,GR Yaris TGR Italy Limited Edition 2024,1.6-liter three-chamber,Rear-Wheel Drive,six-speed manual,Gasoline,111139.0
+Toyota,SUV,Fortuner GR-S 2024,DOHC 16 Valves with Intercooler,Four-Wheel Drive,Automatic (CVT),Diesel,106163.0
+Toyota,Sedan,Corolla Altis 1.6 X CVT-i Special Edition 2024,1.6-liter petrol engine,Front-Wheel Drive,Automatic (CVT),Petrol,38368.0
+Toyota,Sedan,Yaris ATIV X CVT 1.5 Beige Interior 2024,1.5-liter Inline-4 petrol engine,Front-Wheel Drive,Automatic (CVT),Petrol,33451.0
+Toyota,Sedan,Yaris ATIV X CVT 1.5 Black Interior 2024,1.5-liter Inline-4 petrol engine,Front-Wheel Drive,Automatic (CVT),Petrol,33763.0
+Toyota,SUV,Corolla Cross 1.8 2024,Petrol Engine,Front-Wheel Drive,Automatic (CVT),Petrol,44104.0
+Toyota,SUV,Corolla Cross 1.8 X 2024,Petrol Engine,Front-Wheel Drive,Automatic (CVT),Petrol,47859.0
+Toyota,Van,Proace Verso 2025,Electric,Front-Wheel Drive,Automatic,Gasoline,85675.0
+Toyota,Coupe,Celica 2025,Hybrid,Rear-wheel drive,Automatic,Gasoline,47680.0
+Toyota,Hatchback,GR Yaris Rovanpera Edition 2024,Turbocharged 1.6-liter,GR-FOUR 4WD system,Automatic,Petrol,63459.0
+Toyota,Hatchback,GR Yaris Ogier Edition 2024,Turbocharged 1.6-liter,GR-FOUR 4WD system,Automatic,Petrol,113374.0
+Toyota,SUV,Fortuner Leader Edition 2024,2.8L Diesel 6-speed,Rear-Wheel Drive,six-speed manual or automatic,Diesel,67050.0
+Toyota,Sedan,Corolla FX Special Edition 2025,2.0L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,44700.0
+Toyota,SUV,Hilux Tamaraw 2025,2GD-FTV 2.4L turbodiesel and the 1TR-FE 2.0L VVT-I gasoline,Rear-Wheel Drive,6-speed automatic (2.4L)  5-speed manual (2.0L),Gasoline,37250.0
+Toyota,Coupe,Celica,Electric,All-wheel-drive configuration powered by electric motors positioned at the front and rear,Manual,Electric,104226.0
+Toyota,SUV,Land Cruiser Prado 2026,4-cyl 2.8L turbo-diesel  Hybrid: 48V mild-hybrid system,4WD with low-range,8-speed auto,Gasoline,119200.0
+Toyota,SUV,LandCruiser Prado Kakadu 2025,4-cyl 2.8L turbo-diesel  Hybrid: 48V mild-hybrid system,4WD with low-range,8-speed auto,Gasoline,105194.0
+Toyota,SUV,LandCruiser Prado Altitude 2025,4-cyl 2.8L turbo-diesel  Hybrid: 48V mild-hybrid system,4WD with low-range,8-speed auto,Gasoline,91784.0
+Toyota,SUV,LandCruiser Prado VX 2025,4-cyl 2.8L turbo-diesel  Hybrid: 48V mild-hybrid system,4WD with low-range,8-speed auto,Gasoline,87538.0
+Nissan,Coupe,Z Split Grille Fascia,3.0L Twin-Turbo V6 Gas,Rear-Wheel Drive,6-Speed Manual,Gasoline,70335.5
+Nissan,Convertible,Max-Out Concept,Electric,All Wheel Drive (AWD),Automatic,Electric,70335.5
+Nissan,Wagon,Arizon Concept,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Nissan,Hatchback,20-23 Concept,Electric,All-Wheel Drive,Manual,Electric,70335.5
+Nissan,Coupe,Z Nismo 2025,3.0L Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Premium Unleaded,70335.5
+Nissan,SUV,Pathfinder S 2WD 2025,3.5L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,59749.0
+Nissan,Sedan,Altima 2.5 SV 2025,2.5L Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,47382.0
+Nissan,Sedan,Altima 2.5 S 2025,2.5L 4-Cylinder DOHC 16V,Front-Wheel Drive,Automatic,Petrol,40677.0
+Nissan,SUV,Magnite Visia Plus B4D 1.0 Petrol MT,1.0L Petrol,FWD,Manual,Petrol,13052.0
+Nissan,SUV,Magnite Visia B4D 1.0 Petrol MT,1.0L Petrol,FWD,Manual,Petrol,11771.0
+Nissan,SUV,Magnite Facelift,1.0-litre Petrol or Turbo,Front-wheel drive,Manual,Petrol,10654.0
+Nissan,SUV,Magnite Tekna Plus,1.0 B4D,Front-wheel drive,Manual,Petrol,16241.0
+Nissan,SUV,Magnite Tekna B4D 1.0 Petrol MT,1.0-Liter,Front-wheel drive,Manual,Petrol,15645.0
+Nissan,SUV,Magnite N Connecta,1.0-liter,Front-wheel drive,Manual,Petrol,11592.0
+Nissan,SUV,Magnite Acenta,1.0 B4D,Front-wheel drive,Manual,Petrol,12665.0
+Nissan,SUV,Magnite Visia Plus,1.0 B4D,Two-wheel-drive,Manual,Petrol,11548.0
+Nissan,SUV,Magnite Visia AMT,1.0-Liter Petrol,Two-wheel-drive,Continuously Variable Automatic (CVT),Petrol,11771.0
+Nissan,Hatchback,Leaf SV Plus 2025,Electric,Front-wheel drive,Automatic,Electric,53923.0
+Nissan,Hatchback,Leaf S 2025,Electric,Front-Wheel Drive,Automatic,Electric,41929.0
+Nissan,SUV,Ariya Nismo e-4ORCE 2024,Electric,All-Wheel Drive,Automatic,Electric,87314.0
+Nissan,SUV,Kicks SV FWD 2025,2L I4 ICE,Front-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,37742.0
+Nissan,SUV,Kicks SV FWD 2025,2L I4 ICE,Front-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,36088.0
+Nissan,SUV,Kicks SR AWD 2025,2L I4 ICE,All-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,42197.0
+Nissan,SUV,Kicks SR FWD 2025,2L I4 ICE,Front-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,39008.0
+Nissan,SUV,Kicks S AWD 2025,2L I4 ICE,All-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,34762.0
+Nissan,SUV,Kicks S FWD 2025,2L I4 ICE,Front-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,32527.0
+Nissan,SUV,X-Trail Mild Hybrid CVT 2024,ALiS 12V Mild Hybrid,Front-Wheel Drive,Automatic,Mild Hybrid(Electric + Petrol),88655.0
+Nissan,SUV,Patrol Pro-4X 2025,3.5L V6 Gas,Four-Wheel Drive,Automatic,Gasoline,119200.0
+Nissan,Sedan,Altima Special Edition 2025,2.5L Inline 4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,41854.0
+Nissan,SUV,X-Trail STD,KR15 VC-TURBO,2WD,Automatic,Petrol,88595.0
+Nissan,SUV,Rogue Rock Creek Edition 2025,1.5-liter three-cylinder,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,44700.0
+Nissan,Coupe,Z Heritage Edition 2024,3.0L Twin-Turbo V6 Gas,Rear-Wheel Drive,6-Speed Manual  9-Speed Automatic (Optional),Gasoline,88059.0
+Nissan,Coupe,Z 55th Anniversary Special Edition,Dual-turbocharged 3.0-liter V6,Rear-Wheel Drive,6-Speed Manual  9-Speed Automatic (Optional),Gasoline,67050.0
+Nissan,SUV,Townstar Evalia,Electric,Rear-Wheel Drive,Automatic,Electric,64368.0
+Nissan,Coupe,Z 55th Anniversary Special Edition,Dual-turbocharged 3.0-liter V6,Rear-Wheel Drive,6-Speed Manual  9-Speed Automatic (Optional),Gasoline,64025.0
+Nissan,Coupe,Z 2025,3.0L Twin-Turbo V6 Gas,Rear-Wheel Drive,6-Speed Manual  9-Speed Automatic (Optional),Gasoline,59600.0
+Nissan,Truck,X-Truck,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,44700.0
+Nissan,SUV,Y63 Patrol 4WD 2025,5.6-liter V8,Four-Wheel Drive,Automatic,Gasoline,87895.0
+Nissan,Coupe,GT-R (JDM) 2025,3.8L Twin-Turbo V6,All-Wheel Drive,Automatic,Gasoline,157046.0
+Nissan,SUV,Qashqai 2025,Turbocharged 1.3-liter mild-hybrid,All-Wheel Drive,Automatic,Gasoline,37995.0
+Nissan,SUV/Crossover,Note 2025,Electric,All-Wheel Drive,Automatic,Electric,43195.0
+Nissan,crossover,Juke 2023,1.0-liter three-cylinder DIG-T turbocharged petrol,Front -Wheel Drive,7-speed DCT automatic,Gasoline,35015.0
+Nissan,SUV,Interstar Large Van 2024,Turbo Diesel and Electric Options,Front-Wheel Drive,Automatic,Gasoline,75990.0
+Nissan,Truck,Frontier Forsberg Edition 2024,3.8L V6 Gas,Four-Wheel Drive,Automatic,Gasoline,62431.0
+Nissan,Sedan,Versa Sedan 2025,1.6L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,25479.0
+Nissan,SUV/Crossover,Leaf 2025,110-kW electric motor   A larger 160-kW electric motor,All-Wheel Drive,Automatic,Electric,44700.0
+Nissan,crossover,Juke 2025,Electric,All-Wheel Drive,Automatic,Electric,32929.0
+Nissan,SUV,Patrol 2025,3.5-liter V6 twin turbo,Four-Wheel Drive,nine-speed automatic,Gasoline,85213.0
+Nissan,Truck,Frontier 2025,3.8-liter V-6,Four-Wheel Drive,Automatic,Gasoline,52150.0
+Nissan,SUV,Ariya Nismo 2025,Electric,All-Wheel Drive,Single Speed Automatic,Electric,70313.0
+Nissan,SUV,Rogue SL 2025,1.5L Turbo Inline-3 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,52642.0
+Nissan,SUV,Rogue SL 2024,1.5L Turbo Inline-3 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,52895.0
+Nissan,SUV,Rogue Platinum 2025,1.5L Turbo Inline-3 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,53387.0
+Nissan,SUV,Rogue Platinum AWD 2024,1.5L Turbo Inline-3 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,58319.0
+Nissan,SUV,Rogue SV 2025,1.5L Turbo Inline-3 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,44700.0
+Nissan,SUV,Armada Platinum 4x4 2024,5.6-liter V8 Gas,Four-Wheel Drive,Automatic,Gasoline,105075.0
+Nissan,SUV,Armada SL 4x4 2024,5.6L V8 Gas,Four-Wheel Drive,Automatic,Gasoline,92782.0
+Nissan,SUV,Armada SV 4x4 2024,5.6L V8 Gas,Four-Wheel Drive,Automatic,Gasoline,87091.0
+Nissan,SUV,Titan XD 2025,5.6L V8 Gas,Four-Wheel Drive,Automatic,Gasoline,71013.0
+Nissan,Van,Disaster Support Van 2024,3.5L V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,56158.0
+Nissan,SUV,Ariya 90th Anniversary Edition 2024,Electric,Front-Wheel Drive,Single Speed Automatic,Electric,67050.0
+Nissan,Hatchback,Leaf 90th Anniversary Edition 2024,Electric,Front-Wheel Drive,Automatic,Electric,46190.0
+Audi,SUV,A6 e-tron 2025,Electric,All Wheel Drive,Manual,Electric,70335.5
+Audi,SUV,Skysphere,Electric,All Wheel Drive (AWD),Automatic,Electric,70335.5
+Audi,SUV,Grandsphere EV concept,530kW and 960Nm Electric Motor,Rear-Wheel Drive,Automatic,Electric,70335.5
+Audi,Sedan,Grandsphere Concept,Electric,All Wheel Drive,Automatic,Electric,70335.5
+Audi,Coupe,TT Coupe 2025,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,70335.5
+Audi,SUV,Q5 Premium Plus 40 TFSI Quattro 2025,2L I4,All Wheel Drive,7-speed auto-shift manual,Gasoline,67646.0
+Audi,SUV,SQ6 Sportback e-tron 2025,Electric Motor,All-Wheel Drive,Automatic,Electric,156748.0
+Audi,SUV,SQ5 Premium 3.0 TFSI Quattro 2025,3L V6 ICE,All-Wheel Drive,Automatic,Gasoline,87016.0
+Audi,Sedan,A6 Prestige 55 TFSI Quattro 2025,3L V6 Hybrid,All Wheel Drive,Automatic,Gasoline,93274.0
+Audi,Sedan,A6 Premium Plus 55 TFSI Quattro 2025,3L V6 Hybrid,All Wheel Drive,Automatic,Gasoline,93274.0
+Audi,SUV,SQ8 Prestige 4.0 TFSI Quattro 2025,4L V8 ICE,All Wheel Drive,8-speed automatic,Gasoline,145722.0
+Audi,SUV,SQ8 Premium Plus 4.0 TFSI Quattro 2025,4L V8 ICE,All Wheel Drive,8-speed automatic,Gasoline,145424.0
+Audi,Hatchback,RS7 performance 4.0 TFSI Quattro 2025,Electric,All Wheel Drive (AWD),Single Speed Automatic,Electric,130003.0
+Audi,Sedan,A6 Premium 55 TFSI Quattro 2025,3L V6 Hybrid,All Wheel Drive,7-speed auto-shift manual,Gasoline,93274.0
+Audi,SUV,Q5 Premium 40 TFSI Quattro 2025,2L I4,All Wheel Drive,7-speed auto-shift manual,Gasoline,67646.0
+Audi,Sedan,A6 Premium Plus 45 TFSI Quattro 2025,2L I4 Hybrid,All Wheel Drive,7-speed auto-shift manual,Gasoline,86718.0
+Audi,Sedan,A6 Premium 45 TFSI Quattro 2025,2L I4 Hybrid,All Wheel Drive,7-speed auto-shift manual,Gasoline,86569.0
+Audi,SUV,Q7 Prestige 55 TFSI Quattro 2025,3L V6 Hybrid,All Wheel Drive,8-speed automatic,Hybrid,98340.0
+Audi,SUV,Q7 Premium Plus 55 TFSI Quattro 2025,3L V6 Hybrid,All Wheel Drive,8-speed automatic,Hybrid,98191.0
+Audi,SUV,Q7 Premium 55 TFSI Quattro 2025,3L V6 Hybrid,All Wheel Drive,8-speed automatic,Hybrid,98042.0
+Audi,SUV,Q7 Premium Plus 45 TFSI Quattro 2025,2L I4 ICE,All Wheel Drive,Automatic,Gasoline,90592.0
+Audi,SUV,Q7 Premium 45 TFSI Quattro 2025,2L I4 ICE,All Wheel Drive,Automatic,Gasoline,90145.0
+Audi,Sportback,S6 Sportback e-tron 2024,Electric Motor Engine,All Wheel Drive,Automatic,Electric,164794.0
+Audi,Sportback,A6 Sportback e-tron Performance 2024,Electric Motor Engine,Rear-Wheel Drive,Automatic,Electric,128587.0
+Audi,Wagon,S6 Avant e-tron 2024,Electric Motor Engine,All Wheel Drive,Automatic,Electric,166880.0
+Audi,Wagon,A6 Avant e-tron performance 2024,Electric Motor Engine,Rear-Wheel Drive,Automatic,Electric,127991.0
+Audi,SUV,Q6 e-tron quattro 2024,Electric Motor (Battery Capacity 100 kWh),All-Wheel Drive,Automatic,Electric,123670.0
+Audi,SUV,SQ6 e-tron 2024,Electric Motor (Battery Capacity 100 kWh),All-Wheel Drive,Automatic,Electric,154513.0
+Audi,SUV,Q6 e-tron 2024,Two Electric Motors,All-Wheel Drive,Automatic,Electric,168519.0
+Audi,SUV,Q5 Sportback 2026,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,74500.0
+Audi,Hatchback,RS3 Sportback 2025,2.5 TFSI engine,Fron-Wheel Drive,Automatic,Gasoline,108770.0
+Audi,SUV,Q4 Sportback 35 e-tron 2024,Electric,Rear-Wheel Drive,Automatic,Electric,77435.0
+Audi,Wagon,S6 Avant e-tron 2025,Electric,All Wheel Drive,Automatic,Gasoline,104300.0
+Audi,SUV,q4 35 e-tron,Electric,Rear-Wheel Drive,Single Speed Automatic,Electric,75990.0
+Audi,Coupe,RS5 Avant 2026,3.0-litre V6,All Wheel Drive,Automatic,Gasoline,138570.0
+Audi,Wagon,A5 Avant 2025,Electric,All Wheel Drive (AWD),Automatic,Electric,73755.0
+Audi,Sedan,A5 Sedan 2025,Electric,All Wheel Drive,Automatic,Electric,71520.0
+Audi,SUV,S5 Sedan 2025,3.0L Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,87910.0
+Audi,Coupe,TT 2025,Electric,All Wheel Drive (AWD),Automatic,Electric,125160.0
+Audi,SUV,Q8 TFSI e Quattro 2024,3.0-litre turbo-petrol V6,All Wheel Drive (AWD),Automatic,Gasoline,123521.0
+Audi,SUV,Q7 TFSI e Quattro 2024,2.0L Turbo Inline-4 Gas,All Wheel Drive,Automatic,Gasoline,109217.0
+Audi,SUV,Q6 Sportback e-tron 2025,600-650 horsepower from a dual-motor electric,All-Wheel Drive,Automatic,Gasoline,96850.0
+Audi,SUV,RS Q6 e-tron 2025,600-650 horsepower from a dual-motor electric,All-Wheel Drive,Automatic,Gasoline,98340.0
+Audi,Coupe,RS5 Coupe 2025,2.9L Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,118738.0
+Audi,SUV,SQ5 Sportback 2025,3.0L Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,88938.0
+Audi,SUV,S3 Sportback 2025,3.5L V6 Gas,All Wheel Drive,7-speed automatic,Turbocharged Direct Injection,88283.0
+Audi,Sedan,7-Series Protection 2024,4.4 L,All Wheel Drive,Automatic,Gasoline,169264.0
+Audi,Hatchback,A3 Sportback 2025,1.5 TFSI with 110 kW (150 PS)  2.0 TDI that delivers 85 kW (116 PS) or 110 kW (150 PS),Front Wheel Drive,six-speed manual and seven-speed S tronic,Gasoline,56739.0
+Audi,SUV,Q6 e-tron Quattro 2025,Electric,All-Wheel Drive,Automatic,Gasoline,113240.0
+Audi,SUV,SQ6 e-Tron 2025,Electric,All-Wheel Drive,Automatic,Gasoline,107280.0
+Audi,SUV,RS5 Avant 2025,Twin-Turbo V6 Goes Plug-In Hybrid,All Wheel Drive,Automatic,Gasoline,132565.0
+Audi,SUV,Q2 2025,1.5-litre four-cylinder turbo petrol,Front-Wheel Drive,Automatic,Gasoline,68540.0
+Audi,SUV,Q2 2024,1.5-litre four-cylinder turbo petrol,Front-Wheel Drive,Automatic,Gasoline,46190.0
+Audi,SUV,RS 5 Avant 2026,Twin-Turbo V6 Goes Plug-In Hybrid,All Wheel Drive,Automatic,Gasoline,190720.0
+Audi,SUV,SQ8 e-tron 2025,Electric,All Wheel Drive,Single Speed Automatic,Gasoline,138570.0
+Audi,SUV,SQ7 2025,4.0-liter Twin-Turbo V8 Gas,All Wheel Drive (AWD),Automatic,Gasoline,134696.0
+Audi,Sedan,S8 2025,4.0L Twin-Turbo V8 Gas,All Wheel Drive (AWD),Automatic,Gasoline,188619.0
+Kia,SUV,EV5 Electric SUV 2025,Electric,All-Wheel Drive,Automatic,Gasoline,70335.5
+Kia,SUV,EV4 Electric SUV 2025,Electric,All-Wheel Drive,Automatic,Gasoline,70335.5
+Kia,Minivan,Carnival 2025,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,70335.5
+Kia,Sedan,Forte 2025,1.6L Turbo Inline-4 Gas,Rear-Wheel Drive,Automatic,Petrol,70335.5
+Kia,SUV,Sorento 2025,"1.6-liter turbocharged four-cylinder produces 227 horsepower (169 kW) and 258 lb-ft of torque (350 Nm)  plug-in hybrid also has a 1.6-liter engine, but it has the same 258 lb-ft of torque and 261 horsepower (195 kW).",All Wheel Drive,Automatic,Regular,70335.5
+Kia,Minivan,Carnival Limousine Plus,2.2L CRDi,Front-Wheel Drive,Automatic,Diesel,132908.0
+Kia,Pickup,Tasman Pickup Truck 2025,2.2-liter Turbo Diesel or 2.5-liter Turbo Gasoline,"2WD, 4WD","Automatic, Manual","Diesel, Gasoline",95360.0
+Kia,SUV,EV5 AIR (Long Range),Electric Engine,All-Wheel Drive,Automatic,Electric,125905.0
+Kia,SUV,EV5 AIR (Short Range),Electric Engine,Front-Wheel Drive,Automatic,Electric,99160.0
+Kia,Hatchback,EV8 Electric Stinge 2027,Dual-motor,All-Wheel Drive,Automatic,Electric,74500.0
+Kia,Sedan,K4 GT-Line Turbo 2025,1.6-liter turbo inline-four gas,Front-Wheel Drive,8-speed automatic,Gasoline,52895.0
+Kia,Sedan,K4 GT-Line 2025,2.0 inline-for gas,Front-Wheel Drive,CVT,Gasoline,54385.0
+Kia,Sedan,K4 EX 2025,2L I4 ICE,Front-Wheel Drive,CVT,Gasoline,35745.0
+Kia,Sedan,K4 LXS 2025,2L I4 ICE,Front-Wheel Drive,CVT,Gasoline,34255.0
+Kia,Sedan,K4 LX FWD 2025,2L I4 ICE,Front-Wheel Drive,CVT,Gasoline,32765.0
+Kia,Van,PV5 2026,Electric Motor,All-Wheel Drive,Automatic,Electric,58110.0
+Kia,SUV,Sorento SX 2025,1.6L Turbo Inline-4 Plug-in Hybrid,Front Wheel Drive,Automatic,Plug-in hybrid,62580.0
+Kia,SUV,Sorento EX 2025,1.6L Turbo Inline-4 Hybrid,Front Wheel Drive,6-speed Automatic,Hybrid,56620.0
+Kia,SUV,EV5 Long Range FWD 2023,Electric Engine,AWD,Automatic,Electric,30843.0
+Kia,SUV,EV5 Long Range AWD 2024,Electric Engine,AWD,Automatic,Electric,34270.0
+Kia,Hatchback,Picanto 1.0 MT 2024,Petrol Engine,FWD,Automatic (AT),Petrol,19221.0
+Kia,Hatchback,Picanto 1.0 AT 2024,1.0-Liter Petrol Engine,FWD,Automatic (AT),Petrol,20562.0
+Kia,SUV,Sportage Clear Black Limited Edition 2024,2.0-Liter Petrol Engine,AWD,Automatic (AT),Petrol,48023.0
+Kia,SUV,Sportage Clear White Limited Edition 2024,2.0-Liter Petrol Engine,AWD,Automatic (AT),Petrol,48023.0
+Kia,Pick Up,Shehzore K2700 Grand Cabin 2024,Euro 2 naturally-aspirated engine,FWD,Manual,Deisel,40379.0
+Kia,Pick Up,Shehzore K2700 King Cabin 2024,Euro 2 naturally-aspirated engine,FWD,Manual,Deisel,22499.0
+Kia,Pick Up,Shehzore K2700 Standard Cabin 2024,Euro 2 naturally-aspirated engine,FWD,Manual,Deisel,20756.0
+Kia,SUV,K8 Executive Sedan Edition 2025,two engine options: a 2.5-liter inline-four delivering 198 strength and a 3.5-liter V6 that puts out a great 300 drive,Rear-Wheel Drive,eight-speed automatic,Gasoline,58855.0
+Kia,SUV,Niro Plug-In Hybrid EX 2025,1.6L Inline-4 Plug-in Hybrid,Front-Wheel Drive,Automatic,Hybrid,55860.0
+Kia,SUV,EV4 2026,400V Battery powered Electric Motor,All-Wheel Drive,Automatic,Gasoline,59600.0
+Kia,SUV,EV4 2025,400V Battery powered Electric Motor,All-Wheel Drive,Automatic,Gasoline,44700.0
+Kia,SUV,Stonic 2025,1.0-litre turbocharged three-cylinder petrol,Front-Wheel Drive,seven-speed dual-clutch automatic,petrol,25330.0
+Kia,SUV,EV2 2025,Electric,All-Wheel Drive,Automatic,Gasoline,22350.0
+Kia,SUV,EV3 2026,76.1-kilowatt-hour battery that powers an electric motor,All-Wheel Drive,Automatic,Gasoline,52150.0
+Kia,SUV,Carens EV 2025,Electric,Rear-Wheel Drive,Automatic,Electric,44700.0
+Kia,SUV,EV6 2026,Electric,Rear-Wheel Drive,Single Speed Automatic,Electric,74500.0
+Kia,Sedan,K9 2025,3.3-liter turbocharged V6   3.8-liter naturally aspirated,All Wheel Drive (AWD),Automatic,Gasoline,65262.0
+Kia,SUV,K4 Hatchback 2025,1.6L Turbo Inline-4,Rear-Wheel Drive,CVT,Gasoline,32780.0
+Kia,SUV,K4 Sedan 2025,1.6L Turbo Inline-4,Rear-Wheel Drive,six-speed manual or automatic,Gasoline,32780.0
+Kia,Sedan,K4 2026,1.6L Turbo Inline-4,Rear-Wheel Drive,six-speed manual or automatic,Gasoline,44700.0
+Kia,Minivan,Carnival Hybrid 2025,Aspirated V-6 and eight-speed automatic for a hybrid setup comprised of a turbocharged 1.6-liter four-cylinder,All-Wheel Drive,Automatic,Gasoline,59600.0
+Kia,SUV,Sportage 2025,2.5L Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,43955.0
+Kia,SUV,Sorento Plug-in Hybrid SX Prestige 2025,1.6L Turbo Inline-4 Plug-in Hybrid,Front-Wheel Drive,Automatic,Plug-in Hybrid,64055.0
+Kia,SUV,Sorento Hybrid EX 2025,1.6L Turbo Inline-4 Hybrid,Front-Wheel Drive,Automatic,Hybrid,58095.0
+Kia,SUV,Sorento Hybrid 2025,1.6L Turbo Inline-4 Hybrid,Front-Wheel Drive,Automatic,Hybrid,58095.0
+Kia,SUV,Sorento S AWD 2024,2.5L Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,54221.0
+Kia,SUV,Sorento LX 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Automatic,Regular,47665.0
+Kia,SUV,Niro Plug-In Hybrid EX 2024,1.6L Inline-4 Plug-in Hybrid,Front-Wheel Drive,Automatic,Hybrid,51241.0
+Kia,SUV,Niro EV 2025,Electric,Front-Wheel Drive,Automatic,Electric,71297.0
+Kia,Coupe,EVx Sports Car 2025,Electric,Rear-Wheel Drive,Single Speed Automatic,Electric,74500.0
+Kia,SUV,Niro 2025,1.6L Inline-4 Plug-in Hybrid,Front-Wheel Drive,Automatic,Hybrid,43210.0
+Kia,SUV,EV9 2025,Electric,Rear-Wheel Drive,Single Speed Automatic,Gasoline,83440.0
+Kia,SUV,EV6 GT 2025,Electric,All Wheel Drive,Single Speed Automatic,Electric,64070.0
+Kia,Hatchback,Picanto 2025,1.2-liter naturally aspirated four-cylinder engine with 62kW/122Nm of power and a smaller-diameter 1.0-liter turbocharged three-cylinder engine with 74kW/172Nm of power in the GT flagship model.,Front Wheel Drive (FWD),Automatic and  Manual,Petrol,26060.0
+Kia,SUV,EV3 2025,Permanent Magnet Synchronous Motor,Front-Wheel Drive,Automatic,Gasoline,52150.0
+Kia,SUV,EV6 GT-Line AWD 2024,Electric,All-Wheel Drive,Single Speed Automatic,Electric,85824.0
+Kia,SUV,EV6 Light 2024,Electric,Rear-Wheel Drive,Single Speed Automatic,Electric,63474.0
+Kia,SUV,EV6 2025,Electric,Rear-Wheel Drive,Single Speed Automatic,Electric,65560.0
+Kia,SUV,Sonet 2025,"base variants: 1.2-litre NA petrol engine, delivering 82bhp and 115Nm, paired with a 5-speed MT gearbox. Additionally, the 1-litre turbo engine will make a return, producing 118bhp and 172Nm, with transmission options including a 7-speed dual-clutch AT an",Front Wheel Drive,Manual and automatic,Gasoline,38740.0
+Kia,Sedan,K5 2025,1.6L Turbo Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,30545.0
+Kia,Sedan,K5 GT-Line 2025,Turbocharged 2.5-liter gasoline,All-Wheel Drive,Automatic,Gasoline,44104.0
+Kia,Sedan,K5 2025,1.6L Turbo Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,30545.0
+Kia,SUV,EV6 2024,Electric,Rear-Wheel Drive,Single Speed Automatic,Electric,68466.0
+Kia,Sedan,K4 2025,1.6L Turbo Inline-4,Rear-Wheel Drive,six-speed manual or automatic,Gasoline,29785.0
+Mitsubishi,Small Crossover,XFC Concept,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Mitsubishi,Truck,XRT Concept,2.4-liter turbodiesel,Front-Wheel Drive,Manual,Diesel,70335.5
+Mitsubishi,SUV,Compact SUV 2024,1.5L Turbo Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,70335.5
+Mitsubishi,SUV,DX Concept,Electric,All-Wheel Drive,Automatic,Gasoline,70335.5
+Mitsubishi,Truck,L200 2025,"148 horsepower (110 kilowatts) and 330 Newton-meters (243 pound-feet), 181 hp (135 kW) and 430 Nm (316 lb-ft), and the strongest configuration with 201 hp (150 kW) and 470 Nm (346 lb-ft).",Rear-Wheel Drive,six-speed automatic transmission or a shift-by-wire manual,Diesel,70335.5
+Mitsubishi,Hatchback,Mirage LE CVT 2025,1.2L Inline-3 Gas,Front-Wheel Drive,Automatic,Gasoline,30545.0
+Mitsubishi,Hatchback,Mirage ES CVT 2025,1.2L Inline-3 Gas,Front-Wheel Drive,Automatic,Gasoline,29204.0
+Mitsubishi,Truck,Triton Black Edition 2025,2.4-liter turbo-diesel MIVEC,Rear-Wheel Drive,Automatic,Diesel,44700.0
+Mitsubishi,SUV,Outlander PHEV 2025,2.4-liter petrol engine with electric motors,Four-Wheel Drive,Automatic,Gasoline,74649.0
+Mitsubishi,SUV,Outlander 2026,Hybrid,Four-Wheel Drive,Automatic,Hybrid,44700.0
+Mitsubishi,Truck,Triton Black Edition,2.4-liter turbo-diesel MIVEC,Rear-Wheel Drive,Automatic,Diesel,44551.0
+Mitsubishi,SUV,Lancer 2025,Hybrid,Front wheel drive,Automatic,Hybrid,36103.0
+Mitsubishi,SUV,Pajero Sport 2025,2.4-litre twin-turbocharged four-cylinder diesel,All Wheel Drive (AWD),Automatic,Gasoline,44700.0
+Mitsubishi,SUV,Endeavor 8-Seater 2024,3.8-liter V6,Four-Wheel Drive,Automatic,Gasoline,59600.0
+Mitsubishi,SUV,Xpander 2025,3.5L V6 Gas,Four-Wheel Drive,Automatic,Gasoline,38293.0
+Mitsubishi,SUV,Endeavor 8-Seater 2024,3.8-liter V6,Four-Wheel Drive,Automatic,Gasoline,59600.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SEL Black Edition 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Single Speed Automatic,Plug-in Hybrid,72697.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SE Ralliart 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Single Speed Automatic,Plug-in Hybrid,68227.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid ES Fleet 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Single Speed Automatic,Plug-in Hybrid,63087.0
+Mitsubishi,SUV,Eclipse Cross Black Edition 2024,1.5L Turbo Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,43493.0
+Mitsubishi,SUV,Outlander Sport Trail Edition 2024,2.0L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,42227.0
+Mitsubishi,SUV,Outlander Sport 2.4 SEL 2024,2.4L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,42450.0
+Mitsubishi,SUV,Outlander Sport 2.0 SE 2024,2.0L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,41258.0
+Mitsubishi,SUV,Outlander Sport 2024,2.0L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,35298.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid ES 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,60107.0
+Mitsubishi,Sedan,Mirage G4 2025,1.2L Inline-3 Gas,Front-Wheel Drive,Manual,Petrol,37995.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid 2025,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,60196.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SEL Platinum Edition 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,75007.0
+Mitsubishi,SUV,Outlander SEL Platinum Edition 2024,2.5L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,60852.0
+Mitsubishi,SUV,Outlander SE Black Edition S-AWC 2024,2.5L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,51316.0
+Mitsubishi,SUV,Outlander SE Black Edition 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,48634.0
+Mitsubishi,SUV,Outlander ES S-AWC 2024,2.5L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,44983.0
+Mitsubishi,SUV,Outlander 2025,2.5L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,46935.0
+Mitsubishi,Hatchback,Mirage Ralliart 2024,1.2L Inline-3 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,28146.0
+Mitsubishi,SUV,Xforce 2025,1.5L Turbo Inline-4,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,56620.0
+Mitsubishi,SUV,Outlander Sport 2025,2.0L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,44700.0
+Mitsubishi,Hatchback,Mirage 2025,Electric,All-Wheel Drive,Automatic,Electric,29800.0
+Mitsubishi,SUV,Eclipse Cross 2025,Electric,All-Wheel Drive,Automatic,Electric,39485.0
+Mitsubishi,SUV,Xforce 2023,1.5L Turbo Inline-4,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,37548.0
+Mitsubishi,SUV,Xforce 2024,1.5L Turbo Inline-4,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,37548.0
+Mitsubishi,SUV,Eclipse Cross Ralliart 2024,1.5L Turbo Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,48425.0
+Mitsubishi,Truck,Triton Ralliart 2023,2.4-liter turbodiesel,Rear-Wheel Drive,six-speed manual or automatic,Gasoline,29800.0
+Mitsubishi,Hatchback,Colt 2024,Electric,All-Wheel Drive,Automatic,Electric,33108.0
+Mitsubishi,Truck,L200 2024,"148 horsepower (110 kilowatts) and 330 Newton-meters (243 pound-feet), 181 hp (135 kW) and 430 Nm (316 lb-ft), and the strongest configuration with 201 hp (150 kW) and 470 Nm (346 lb-ft).",Rear-Wheel Drive,six-speed automatic transmission or a shift-by-wire manual,Diesel,31290.0
+Mitsubishi,SUV,Outlander Sport 2024,2.0L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Petrol,35298.0
+Mitsubishi,SUV,Outlander SEL Launch Edition 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,54147.0
+Mitsubishi,SUV,Outlander SE S-AWC 2024,2.5L Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,49528.0
+Mitsubishi,SUV,Outlander Sport ES 2024,2.0L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,38278.0
+Mitsubishi,SUV,Outlander SE Launch Edition 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,52686.0
+Mitsubishi,SUV,Outlander SEL Touring 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,60360.0
+Mitsubishi,SUV,Outlander Sport LE 2.0 AWC 2024,2.0L Inline-4 Gas,Four-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,39321.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SEL Premium 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,64577.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SEL Premium 2023,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,71736.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SEL Touring 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,76973.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SEL Touring 2023,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,70991.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SEL 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,68972.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SEL 2023,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,67713.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SE 2023,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,62796.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SE Tech 2023,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,65776.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SE 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,64055.0
+Mitsubishi,SUV,Outlander Plug-In Hybrid SE Tech 2024,2.4L Inline-4 Plug-in Hybrid,Four-Wheel Drive,Automatic,Plug-in Hybrid,68823.0
+Mitsubishi,SUV,Outlander SEL Black Edition 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,49930.0
+Mitsubishi,SUV,Outlander SEL Black Edition 2023,2.5L Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,53037.0
+Mitsubishi,SUV,Outlander SE 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,46846.0
+Mitsubishi,SUV,Outlander ES 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,42301.0
+Hyundai,SUV,Pony Coupe,3.5L V6 Gas,All-Wheel Drive,Manual,Gasoline,70335.5
+Hyundai,SUV,Palisade 2025,3.8L V6 hybrid,All-Wheel Drive,Automatic,hybrid,70335.5
+Hyundai,SUV,Ioniq 6 N 2025,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Hyundai,SUV,Santa Cruz 2025,Turbocharged 2.5-liter four-cylinder,All-Wheel Drive,Automatic,Gasoline,70335.5
+Hyundai,SUV,Vision Qe,Electric,All Wheel Drive,Automatic,Electric,70335.5
+Hyundai,Sedan,Elantra Hybrid 2025,Hybrid,Front-Wheel Drive,Automatic,Hybrid,52001.0
+Hyundai,SUV,Tucson AWD A/T Ultimate 2024,2.0-Liter Petrol,AWD,Automatic,Petrol,47904.0
+Hyundai,SUV,Tucson FWD A/T GLS Sport 2024,2.0-Liter Petrol,Front Wheel Drive,Automatic,Petrol,44477.0
+Hyundai,SUV,Tucson FWD A/T GLS 2024,2.0-Liter Petrol,Front Wheel Drive,Automatic,Petrol,39336.0
+Hyundai,Crossover SUV,Inster Cross 2025,Electric Motor,Front Wheel Drive,Automatic,Petrol,59600.0
+Hyundai,SUV,Palisade XRT 2025,3.8-liter V6,All-Wheel Drive,Automatic,Petrol,66529.0
+Hyundai,SUV,Alcazar Executive Matte 1.5 Petrol 6STR,1.5 Turbo Gdi Petrol,Front Wheel Drive,Automatic,Petrol,37250.0
+Hyundai,SUV,Alcazar Executive Matte 1.5 Petrol 7STR,1.5 Turbo Gdi Petrol,Front Wheel Drive,Manual,Petrol,26820.0
+Hyundai,SUV,Alcazar Prestige Matte 1.5 Petrol 7STR,1.5 Turbo Gdi Petrol,Front Wheel Drive,Manual,Petrol,30843.0
+Hyundai,SUV,Alcazar Signature 1.5 Petrol DCT 6STR,1.5 Turbo Gdi Petrol,Front Wheel Drive,Manual,Petrol,37995.0
+Hyundai,SUV,Alcazar Signature 1.5 Petrol DCT 7STR,1.5 Turbo Gdi Petrol,Front Wheel Drive,Automatic,Petrol,37697.0
+Hyundai,SUV,Sonata AWD 2025,2.5-liter Inline-4,All-Wheel Drive,Automatic,Gasoline,42689.0
+Hyundai,SUV,Alcazar Platinum Matte 1.5 Petrol DCT 7STR Dual Tone,1.5 Turbo Gdi Petrol,Front Wheel Drive,Manual,Gasoline,34866.0
+Hyundai,SUV,Alcazar Platinum 1.5 MT Petrol 7STR 2024,1.5 Turbo Gdi Petrol,Front Wheel Drive,Manual,Petrol,37697.0
+Hyundai,SUV,Alcazar Platinum Matte 1.5 Petrol DCT 6STR Dual Tone,1.5 Turbo Gdi Petrol,Front Wheel Drive,Automatic,Gasoline,37697.0
+Hyundai,SUV,Alcazar Prestige 1.5 Petrol MT 7STR,1.5 Turbo Gdi Petrol,Front Wheel Drive,Automatic,Petrol,30545.0
+Hyundai,SUV,Alcazar Platinum 1.5 Diesel AT 6STR,1.5 U2 CRDi Diesel,Front Wheel Drive,Automatic,Gasoline,37399.0
+Hyundai,SUV,Alcazar Platinum 1.5 Diesel AT 7STR,1.5 U2 CRDi Diesel,Front Wheel Drive,Automatic,Gasoline,37250.0
+Hyundai,SUV,Alcazar Signature Matte 1.5 Petrol DCT 6STR Dual Tone,1.5 U2 CRDi Diesel,Front Wheel Drive,Automatic,Gasoline,38144.0
+Hyundai,SUV,Alcazar Signature Matte 1.5 Petrol DCT 7STR Dual Tone,1.5 U2 CRDi Diesel,Front Wheel Drive,Automatic,Gasoline,38144.0
+Hyundai,SUV,Santa Fe Hybrid 2025,1.6L Turbo Inline-4 Hybrid,Front-Wheel Drive,6-Speed Automatic,Gasoline,58036.0
+Hyundai,SUV,Casper XRT 2025,Electric,All-Wheel Drive,Automatic,Gasoline,41720.0
+Hyundai,Truck,Santa Cruz XRT 2024,2.5L Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,59600.0
+Hyundai,SUV,Venue SX(O),1.0L GDi petrol,Front Wheel Drive (FWD),dual-clutch,Petrol,23766.0
+Hyundai,SUV,Venue S(O) Plus,1.2L MPi petrol,Front Wheel Drive (FWD),Manual,Petrol,19892.0
+Hyundai,SUV,Venue S(O) Plus,1.2L MPi petrol,Front Wheel Drive (FWD),Manual,Petrol,18029.0
+Hyundai,SUV,Alcazar Signature 1.5 Diesel AT 6STR,1.5 U2 CRDi Diesel,Front Wheel Drive,"Automatic (TC) - 6 Gears, Manual Override & Paddle Shift",Diesel,38070.0
+Hyundai,SUV,Venue Adventure Edition,1.2L MPi petrol with manual transmission - S(O) Plus  1.2L MPi petrol with manual transmission - SX  1.0L GDi petrol with dual-clutch transmission - SX(O),Front Wheel Drive (FWD),Manual,Petrol,18029.0
+Hyundai,SUV,Alcazar Executive Matte 1.5 Diesel 7STR,1.5 U2 CRDi Diesel,Front Wheel Drive,Manual,Diesel,28653.0
+Hyundai,SUV,Alcazar Signature 1.5 Diesel AT 7STR,1.5 U2 CRDi Diesel,Front Wheel Drive,"Automatic (TC) - 6 Gears, Manual Override & Paddle Shift",Diesel,37637.0
+Hyundai,SUV,Exter S (O) Plus MT,1.2 l Kappa,Front-Wheel Drive,Manual,Petrol,14006.0
+Hyundai,SUV,Exter S Plus AMT,1.2 l Kappa,Front-Wheel Drive,Automatic,Petrol,15049.0
+Hyundai,SUV,Alcazar Prestige Matte 1.5 Diesel 7STR,1.5 U2 CRDi Diesel,Front Wheel Drive,Manual,Diesel,30843.0
+Hyundai,SUV,Creta Knight Edition 2024,1.5-litre naturally aspirated petrol / 1.5-litre diesel,FWD / AWD,Manual / Automatic,Gasoline,25777.0
+Hyundai,SUV,Alcazar Platinum MT 1.5 Diesel 7STR,1.5 U2 CRDi Diesel,Front Wheel Drive,Manual,Diesel,34568.0
+Hyundai,SUV,Alcazar Platinum Matte 1.5 Diesel 7STR Dual Tone,1.5 U2 CRDi Diesel,Front Wheel Drive,Manual,Diesel,35015.0
+Hyundai,Sedan,Aura E 1.2 CNG,1.2 Bi-Fuel,Front Wheel Drive,Manual,CNG,13410.0
+Hyundai,SUV,Alcazar Platinum 1.5 Petrol DCT 7STR,1.5 Turbo Gdi Petrol,Front Wheel Drive,"Automatic (DCT) - 7 Gears, Manual Override & Paddle Shift",Petrol,37101.0
+Hyundai,SUV,Alcazar Executive 1.5 Diesel MT 7STR,1.5 U2 CRDi Diesel,Front Wheel Drive,Manual,Diesel,28370.0
+Hyundai,Sedan,Elantra Limited 2025,2.0L Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,40454.0
+Hyundai,Sedan,Elantra SEL Sport 2025,2.0L Turbo Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,35984.0
+Hyundai,Sedan,Elantra SE 2025,2.0-liter Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,34345.0
+Hyundai,Sedan,Sonata SE 2025,2.5-liter Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,41422.0
+Hyundai,SUV,Santa Fe Smart 2024,Turbocharged 2.5-liter four-cylinder engine,All Wheel Drive,Automatic,Hybrid,69881.0
+Hyundai,SUV,Santa Fe Signature 2024,Turbocharged 1.5-liter four-cylinder engine,All Wheel Drive,Automatic,Hybrid,79045.0
+Hyundai,SUV,e-C3 2025,Electric,Front Wheel Drive,Automatic,Gasoline,32780.0
+Hyundai,SUV,IONIQ 4 2026,Electric,All-Wheel Drive,Automatic,Electric,44700.0
+Hyundai,SUV,Ioniq 6 N 2026,Electric,All-Wheel Drive,Automatic,Electric,58110.0
+Hyundai,SUV,Alcazar 2025,1.5 l diesel CRDi,Front Wheel Drive,Automatic,Diesel,29800.0
+Hyundai,SUV,Creta EV 2025,Electric,Front-Wheel Drive,Automatic,Electric,32780.0
+Hyundai,SUV,Tucson 2027,"entry-level 2.5-liter four-pot produces 187 horsepower and 178 lb-ft of torque, while the 1.6-liter turbocharged hybrid musters up 226 hp. If you want the most powerful Tucson, opt for the 261-hp plug-in hybrid.",All-Wheel Drive,Automatic,Gasoline,52150.0
+Hyundai,SUV,Tucson [US] 2025,"entry-level 2.5-liter four-pot produces 187 horsepower and 178 lb-ft of torque, while the 1.6-liter turbocharged hybrid musters up 226 hp. If you want the most powerful Tucson, opt for the 261-hp plug-in hybrid.",All-Wheel Drive,Automatic,Gasoline,38740.0
+Hyundai,SUV,i30 Fastback 2025,2.5L Turbo Inline-4,Front-Wheel Drive,Automatic,Gasoline,48008.0
+Hyundai,SUV,i30 Wagon 2025,2.5L Turbo Inline-4,Front-Wheel Drive,Automatic,Gasoline,44700.0
+Hyundai,sedan,Ioniq 6 EV 2024,Electric,Rear-Wheel Drive,Automatic (AT),Electric,123327.0
+Hyundai,SUV,Ioniq 5 EV 2024,Electric,All-wheel drive,Automatic (AT),Electric,120660.0
+Hyundai,Van,ST1 2024,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,163900.0
+Hyundai,SUV,Alcazar 2024,1.5 l diesel CRDi,Front Wheel Drive,Automatic,Diesel,29204.0
+Hyundai,Sedan,Verna 2025,1.5 l U2 CRDi diesel,Front Wheel Drive,Automatic,Diesel,35700.0
+Chevrolet,Sedan,FNR-XE Electric Concept,Electric,All-Wheel Drive,Single-Speed,Electric,70335.5
+Chevrolet,SUV,Equinox 2025,1.5L Turbo Inline-4,Front-Wheel Drive,Automatic,Gasoline,70335.5
+Chevrolet,SUV,QX80 Luxe 2024,3.5L V6 Gas,Rear-Wheel Drive,Manual,Gasoline,70335.5
+Chevrolet,Coupe,Camaro Z/28 2025,6.2-liter Turbo V8 Gas,Rear-Wheel Drive,Manual,Gasoline,70335.5
+Chevrolet,SUV,Blazer EV 1LT 2025,Ultium Drive motor,Front-Wheel Drive,single-speed automatic,Electric,70335.5
+Chevrolet,SUV,Suburban LS 2WD 2025,3.0L Turbo V6 Diesel,Rear-Wheel Drive,Automatic,Diesel,94615.0
+Chevrolet,SUV,Trax LS 2025,1.2L Turbo 3 Cylinder Gas,Front-Wheel Drive,Automatic,Petrol,36207.0
+Chevrolet,SUV,Trax LT 2025,1.2L Turbo 3 Cylinder Gas,Front-Wheel Drive,Automatic,Petrol,30396.0
+Chevrolet,SUV,Trax 1RS 2025,1.2L Turbo 3 Cylinder Gas,Front-Wheel Drive,6-Speed Automatic,Petrol,33227.0
+Chevrolet,SUV,Trax LS 2025,1.2L Turbo 3 Cylinder Gas,Front-Wheel Drive,6-Speed Automatic,Petrol,30396.0
+Chevrolet,SUV,Equinox RS w/2RS AWD 2025,1.5L I4 ICE,All-Wheel Drive,8-speed automatic,Gasoline,52150.0
+Chevrolet,SUV,Equinox ACTIV w/XDB FWD 2025,1.5L I4 ICE,Front-Wheel Drive,CVT,Gasoline,49915.0
+Chevrolet,SUV,Equinox ACTIV w/KDZ AWD 2025,1.5L I4 ICE,All-Wheel Drive,8-speed automatic,Gasoline,52150.0
+Chevrolet,SUV,Equinox ACTIV w/XDB FWD 2025,1.5L I4 ICE,Front-Wheel Drive,CVT,Gasoline,49170.0
+Chevrolet,SUV,Equinox LT w/2LT AWD 2025,1.5L I4 ICE,All-Wheel Drive,8-speed automatic,Gasoline,45594.0
+Chevrolet,SUV,Equinox LT w/1LT FWD 2025,1.5L I4 ICE,Front-Wheel Drive,CVT,Gasoline,42614.0
+Chevrolet,SUV,Blazer EV SS pAWD 2024,Electric Motor,All Wheel Drive,Automatic,Electric,98340.0
+Chevrolet,Sedan,Onix 2025,Turbocharged 1.0L I3,Front-Wheel Drive,Automatic,Petrol,38904.0
+Chevrolet,SUV,Bolt EV 2026,Permanent magnet AC synchronous,Front-Wheel Drive,Automatic,Electric,40230.0
+Chevrolet,SUV,Bolt EV 2026,Permanent magnet AC synchronous,Front-Wheel Drive,Automatic,Electric,40230.0
+Chevrolet,SUV,Corvette Electric SUV 2026,Electric,All-Wheel Drive,Automatic,Electric,149000.0
+Chevrolet,SUV,Blazer 4LT 2025,-,All-Wheel Drive,Automatic,Gasoline,72712.0
+Chevrolet,SUV,Captiva XL 2024,Turbocharged 1.5L,Front-Wheel Drive,six-speed manual  Continously variable automatic,Gasoline,31290.0
+Chevrolet,Wagon,Malibu Maxx 2025,3.5L V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,40215.0
+Chevrolet,SUV,Corvette Stingray Convertible 2025,6.2L V8 Gas,Rear Wheel Drive,Automatic,Gasoline,104285.0
+Chevrolet,Coupe,Corvette Stingray Coupe 2025,6.2L V8 Gas,Rear Wheel Drive,Automatic,Gasoline,114715.0
+Chevrolet,Convertible,Corvette Z06 Convertible 2025,5.5L V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,179977.0
+Chevrolet,Convertible,Corvette ZR1 Convertible 2025,"V8 6,2 l",Rear Wheel Drive (RWD),7-speed manual,Premium,192955.0
+Chevrolet,Convertible,Corvette E-Ray Convertible 2025,6.2L V8 Hybrid,All-Wheel Drive,Automatic,Gasoline,172229.0
+Chevrolet,Coupe,Corvette E-Ray 2025,6.2L V8 Hybrid,All-Wheel Drive,Automatic,Gasoline,160920.0
+Chevrolet,Truck,Silverado 1500 2026,2.7L Turbo Inline-4 Gas,Rear Wheel Drive,Automatic,Gasoline,81712.0
+Chevrolet,SUV,Suburban EV 2025,Electric,Four-Wheel Drive,Automatic,Electric,119200.0
+Chevrolet,SUV,Tahoe 2026,3.0L straight-six diesel,Rear-Wheel Drive,Automatic,Diesel,86703.0
+Chevrolet,SUV,Trailblazer 2026,1.2L Inline-3 Flex-fuel (FFV),Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,38740.0
+Chevrolet,SUV,Equinox Plus PHEV 2025,Plug-in hybrid,All-Wheel Drive,Automatic,El,47680.0
+Chevrolet,Sedan,Caprice 2025,3.5L V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,59600.0
+Chevrolet,Coupe,Lumina Z34 2025,Twin-turbo V6 pushing 400 hp,All-Wheel Drive,Automatic,Gasoline,74500.0
+Chevrolet,Truck,S10 Midnight Edition 2024,2.8 turbo,Rear-Wheel Drive,Automatic,Gasoline,95360.0
+Chevrolet,SUV,Trax Redline Edition 2025,1.2L Turbo 3 Cylinder Gas,Front-Wheel Drive,Automatic,Petrol,29219.0
+Chevrolet,SUV,Suburban LT AWD 2024,5.3L V8 Gas 3.0L Turbo Diesel (+$995),Four-Wheel Drive,Automatic,Gasoline,100873.0
+Chevrolet,SUV,Trailblazer LS 4WD 2025,1.3L Inline-3 Gas,All-Wheel Drive,9-Speed Automatic,Gasoline,38889.0
+Chevrolet,SUV,Traverse RS w/2RS 2024,3.6-liter V6 Gas,All-Wheel Drive,Automatic,Gasoline,83738.0
+Chevrolet,SUV,Trailblazer RS AWD 2025,1.3L Inline-3 Gas,All-Wheel Drive,9-Speed Automatic,Gasoline,44849.0
+Chevrolet,SUV,Trailblazer RS 2025,1.3L Inline-3 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,41869.0
+Chevrolet,SUV,Suburban RST 4WD 2024,5.3L V8 Gas  3.0L Turbo Diesel (+$995)  6.2L Turbo V8 (Optional),Four-Wheel Drive,Automatic,Gasoline,104747.0
+Chevrolet,SUV,Suburban LT 4WD 2024,5.3L V8 Gas 3.0L Turbo Diesel (+$995),Four-Wheel Drive,Automatic,Gasoline,100873.0
+Chevrolet,SUV,Suburban LS 4WD 2024,5.3L V8 Gas  3.0L Turbo Diesel (+$995),Four-Wheel Drive,Automatic,Gasoline,92678.0
+Chevrolet,SUV,Trailblazer LT AWD 2025,1.3L Inline-3 Gas,All-Wheel Drive,9-Speed Automatic,Gasoline,40677.0
+Chevrolet,SUV,Trailblazer LT 2025,1.2L Inline-3 Flex-fuel (FFV),Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,38144.0
+Chevrolet,SUV/Crossover,Traverse LT 4WD 2024,2.5L Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,62580.0
+Chevrolet,Coupe,H700 Corvette C8 Convertible 2024,6.6-liter V8,dual clutch automatic,Manual,Gasoline,52076.0
+Chevrolet,Sedan,Malibu LS AWD 2024,1.5L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,37399.0
+Chevrolet,Sedan,Sail 2025,1.5-liter,Front-Wheel Drive,Six-speed manual   Continuously variable automatic,Gasoline,38442.0
+Chevrolet,Van,Express Passenger Van 2025,4.3L V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,74500.0
+Chevrolet,SUV/Crossover,Traverse LT 2024,2.5L Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,59600.0
+Chevrolet,SUV/Crossover,Traverse Z71 2024,2.5L Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,69136.0
+Chevrolet,SUV/Crossover,Traverse Limited LS 2024,3.6L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,53506.0
+Chevrolet,Coupe,Corvette E-Ray 3LZ Coupe 2024,6.2L V8 Hybrid,All-Wheel Drive,Automatic,Gasoline,172617.0
+Chevrolet,Coupe,Corvette E-Ray 2LZ Coupe 2024,6.2L V8 Hybrid,All-Wheel Drive,Automatic,Gasoline,164496.0
+Chevrolet,Convertible,Camaro ZL1 Convertible 2025,6.2L Turbo V8 Gas,Rear-Wheel Drive,"6-Speed Manual  10-Speed Automatic (+$1,595)",Gasoline,116369.0
+Chevrolet,Coupe,Camaro ZL1 Coupe 2024,6.2-liter Turbo V8 Gas,Rear-Wheel Drive,Manual,Gasoline,107429.0
+Chevrolet,Convertible,Camaro 1LT Convertible 2025,"2.0L Turbo Inline-4 Gas  3.6L Turbo V6 (+$1,595)",Rear-Wheel Drive,Manual,Gasoline,71371.0
+Chevrolet,SUV,Trailblazer LS AWD 2025,1.3L Inline-3 Gas,All-Wheel Drive,9-Speed Automatic,Gasoline,38889.0
+Chevrolet,SUV,Trailblazer LS 2025,1.2L Inline-3 Flex-fuel (FFV),Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,35909.0
+Ford,Minivan,Transit Courier 2025,Electric,Front-Wheel Drive,Automatic,Gasoline,70335.5
+Ford,Limo,Mustang Mach-E Limo,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Ford,Truck,T3 Electric Truck 2025,"Electric Twincharged (+$10,000)",All-Wheel Drive,Automatic,Electric,70335.5
+Ford,Coupe,Mustang Super Cobra Jet 1800,3.5L V6 Gas,Four-Wheel Drive,Manual,Gasoline,70335.5
+Ford,Coupe,Mustang GT3 Racecar 2025,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Ford,SUV,Bronco Stroppe Special Edition 2025,2.7-liter EcoBoost,All-wheel drive,Automatic,Petrol,93870.0
+Ford,SUV,Expedition Platinum 2025,3.5-liter turbocharged V-6,Four-Wheel Drive,Automatic,Gasoline,103838.0
+Ford,SUV,Expedition King Ranch 2025,3.5-liter turbocharged V-6,Four-Wheel Drive,Automatic,Gasoline,100858.0
+Ford,SUV,Expedition Tremor 2025,3.5-liter turbocharged V-6,Four-Wheel Drive,Automatic,Gasoline,97878.0
+Ford,SUV,Expedition Active 2025,3.5-liter turbocharged V-6,Four-Wheel Drive,Automatic,Gasoline,94898.0
+Ford,SUV,Explorer Platinum 2025,2.3L Turbo Inline-4 Gas,Rear-Wheel Drive,10-Speed Automatic,Gasoline,76765.0
+Ford,Truck,Ranger PHEV 2025,Plug-In Hybrid,All-Wheel Drive,Automatic,Plug-In Hybrid,129034.0
+Ford,Truck,Maverick Raptor 2025,2.0L EcoBoost 4-cylinder,All-Wheel Drive,Automatic,Gasoline,60330.0
+Ford,Crossover,Capri Standard Range 2024,Electric Motor,Rear-Wheel Drive,Automatic,Electric,74500.0
+Ford,SUV,Bronco Sport Sasquatch Package 2025,238-hp 2.0-liter turbo four,Four-Wheel Drive,Automatic,Gasoline,62297.0
+Ford,SUV,Everest Tremor 2025,3.0-liter turbo-diesel V6,Four-Wheel Drive,10-speed automatic,Gasoline,77033.0
+Ford,SUV,Bronco Sport 2025,1.5L Turbo Inline-3 Gas,Four-Wheel Drive,Automatic,Gasoline,47069.0
+Ford,SUV,Capri Extended Range AWD 2024,Electric,All-Wheel Drive,Automatic,Electric,92380.0
+Ford,Truck,Maverick Lobo 2025,2.0L EcoBoost 4-cylinder,All-Wheel Drive,Automatic,Gasoline,60330.0
+Ford,Sedan,Taurus GTD 2025,2.0L 4-cylinder,All Wheel Drive (AWD),6-Speed SelectShift Automatic -inc: sport mode and shifter button activation (STD),Gasoline,52150.0
+Ford,SUV,F-150 Lightning SuperTruck Concept 2024,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,81950.0
+Ford,Coupe,Capri EV 2025,RWD single electric motor,All-Wheel Drive,Automatic,Electric,92380.0
+Ford,SUV,3-Row Electric SUV 2026,Electric,Four-Wheel Drive,Automatic,Electric,89400.0
+Ford,SUV,Puma Gen-E 2025,Electric,Rear-Wheel Drive,Automatic,Gasoline,66305.0
+Ford,SUV,Gen-E 2025,Electric,All-Wheel Drive,Automatic,Electric,65560.0
+Ford,Convertible,Mustang GT Convertible 2025,5.0L V8 Gas,Rear-Wheel Drive,6-speed Manual 10-Speed Automatic (Optional),Gasoline,128289.0
+Ford,hatchback,Mustang Mach-E 2025,Electric,All-Wheel Drive,Automatic,Electric,94913.0
+Ford,Minivan,Transit Cargo Van 2025,"3.5L V6 Flex-fuel (FFV) 3.5L Turbo V6 (+$1,775)",Rear Wheel Drive,10-Speed Automatic,Gasoline,70030.0
+Ford,Minivan,Transit Cargo Van 2024,"3.5L V6 Flex-fuel (FFV) 3.5L Turbo V6 (+$1,775)",Rear Wheel Drive,10-Speed Automatic,Gasoline,74053.0
+Ford,Van,Transit Passenger Van 2024,3.5L V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,79894.0
+Ford,SUV,Stealth 2025,3.0-liter twin-turbo I-6,Four-Wheel Drive,Automatic,Gasoline,59600.0
+Ford,Hatchback,Focus ST Edition 2024,2.0L Turbo Inline-4 Gas,Front-Wheel Drive,Automatic,Premium,63951.0
+Ford,Convertible,Mustang GT 60th Anniversary Package 2025,5.0L V8 Gas,Rear-Wheel Drive,Manual,Regular,73010.0
+Ford,Coupe,Mustang Shelby GT500 2026,5.2L Supercharged V8 Gas,Rear-Wheel Drive,Automatic,Regular,119200.0
+Ford,Convertible,Bronco Raptor Black Appearance Package 2025,3.0L Twin-Turbo V6 Gas,Four-Wheel Drive,Automatic,Gasoline,136976.0
+Ford,SUV,Explorer Extended Range AWD 2024,3.5L V6 Gas,All-Wheel Drive,Automatic,Electric,86420.0
+Ford,Truck,F-150 STX 4WD 2024,"2.7L Twin-Turbo V6 Gas  5.0L V8 (+$1,370)",Four-Wheel Drive,Automatic,Gasoline,74038.0
+Ford,Truck,F-150 STX 2024,"2.7L Twin-Turbo V6 Gas  5.0L V8 (+$1,370)",Rear-Wheel Drive,Automatic,Gasoline,68376.0
+Ford,SUV,Expedition Max XL 4x4 2024,3.5L Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,88059.0
+Ford,SUV,Explorer ST-Line 4WD 2025,2.3L Turbo Inline-4 Gas,Four-Wheel Drive,10-Speed Automatic,Gasoline,69106.0
+Ford,SUV,Explorer ST-Line 2025,2.3L Turbo Inline-4 Gas,Rear-Wheel Drive,10-Speed Automatic,Gasoline,66126.0
+Ford,SUV,Explorer 2026,Electric,All-Wheel Drive,Automatic,Gasoline,61612.0
+Ford,SUV,Explorer Active AWD 2025,2.3L Turbo Inline-4 Gas,Four-Wheel Drive,10-Speed Automatic,Gasoline,62014.0
+Ford,SUV,Explorer Active 2025,2.3L Turbo Inline-4 Gas,Rear-Wheel Drive,10-Speed Automatic,Gasoline,59034.0
+Ford,Coupe,Mustang Dark Horse Matte Clear Film 2024,5.0L V8 Gas,Rear-Wheel Drive,Manual,Gasoline,86375.0
+Ford,SUV,Escape AWD 2024,1.5L Turbo Inline-3 Gas,All-Wheel Drive,8-Speed Automatic,Gasoline,43955.0
+Ford,Truck,F-150 Raptor R 2025,5.2L Twin-Turbo V8 Gas,Four-Wheel Drive,Automatic,Gasoline,166210.0
+Ford,SUV,Expedition XL STX 4x4 2024,3.5L Twin-Turbo V6 Gas,Four-Wheel Drive,Automatic,Gasoline,85750.0
+Ford,SUV,Escape 2025,1.5L Turbo Inline-3 Gas,Front-Wheel Drive,8-Speed Automatic,Gasoline,45967.0
+Ford,SUV,Edge ST 2025,2.7L Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,70328.0
+Ford,SUV,Bronco Sport 2024,1.5L Turbo Inline-3 Gas,Four-Wheel Drive,Automatic,Gasoline,46533.0
+Ford,SUV,Ranger MS-RT 2024,3.0-liter EcoBlue V6 turbodiesel,Rear-Wheel Drive,Automatic,Gasoline,40230.0
+Ford,SUV,Mustang Mach-E Rally AWD 2024,Electric,All-Wheel Drive,Automatic,Electric,96850.0
+Ford,SUV,Explorer ST 2025,3.0L Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,76139.0
+Ford,SUV,Mustang Mach-E GT Bronze Appearance Package 2024,Electric,All Wheel Drive,Automatic,Electric,90890.0
+Ford,Minivan,Ducato 2025,110kWh battery provides 261-mile range,Rear-Wheel Drive,Automatic,-,91933.0
+Ford,Truck,Ranger Raptor 2025,3.0L Twin-Turbo V6 Gas,Four-Wheel Drive,Automatic,Gasoline,89400.0
+Ford,SUV,Edge SUV 2025,2.0L Turbo Inline-4 Gas,Front-Wheel Drive,Automatic,Gasoline,57365.0
+Ford,Three-row SUV,Bronco 2025,"271 horsepower and 336 pound-feet of torque, making it just a tad less muscular than its American cousin, which boasts 300 horses and 325 lb-ft of torque.",All-Wheel Drive,Automatic,Gasoline,61120.0
+Ford,Minivan,Ducato 2024,110kWh battery provides 261-mile range,Rear-Wheel Drive,Automatic,-,86167.0
+Ford,Truck,Stout Pickup Truck 2025,2.5L Inline-4 Hybrid,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,44700.0
+Ford,SUV,Escape Platinum Hybrid AWD 2024,2.5L Inline-4 Hybrid,All-Wheel Drive,Continuously Variable Automatic (CVT),Hybrid,60494.0
+Mercedes,Coupe,AMG Vision Gran Turismo LH Edition,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Mercedes,Coupe,AMG GT2 2025,4.0L Twin-Turbo V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,70335.5
+Mercedes,Electric luxury car,Benz Vision AVTR,Electric Motor,Rear-Wheel Drive,Automatic,Electric,70335.5
+Mercedes,SUV,AMG GLC 63 Coupe 2025,2.0L Turbo Inline-4 Plug-in Hybrid,All-Wheel Drive,MCT 9G Automatic,Gasoline,70335.5
+Mercedes,Sedan,Benz CLA 2024,Electric,All-Wheel Drive,Automatic,-,70335.5
+Mercedes,sedan,Benz E-Class E220d 2024,OM654M 4-Cylinder Diesel,RWD,Automatic,Mild Hybrid(Electric + Petrol),169637.0
+Mercedes,Coupe,Benz E-Class E200 2024,M254 4-Cylinder Petrol,All-Wheel Drive,Automatic,Mild Hybrid(Electric + Petrol),159430.0
+Mercedes,SUV,Benz GLC350e 2025,Turbocharged 2.0-liter inline-four engine paired with an electric motor,All-Wheel Drive,Automatic,Hybrid,91039.0
+Mercedes,Sedan,AMG C43 2025,turbocharged 2.0-liter gasoline,All-Wheel Drive,Automatic,Premium unleaded gasoline,97595.0
+Mercedes,Coupe,Benz AMG GLE 53 Hybrid Coupe 2026,3.0L Turbo Inline-6 Plug-in Hybrid,All Wheel Drive,Automatic,Plug-in Hybrid,135292.0
+Mercedes,Luxury sedan,Benz E-Class LWB 2024,2-litre turbo-petrol engine with 204 hp   2.0-litre turbo-diesel with 197 hp  48V mild-hybrid system that supplies an additional 23 horsepower and 205 Nm of torque,Rear Wheel Drive (RWD),9-speed torque convertor automatic,Gasoline,146020.0
+Mercedes,Luxury sedan,Benz E-Class Long Wheelbase,204 hp 2-litre petrol or a 197 hp 2-litre diesel,Rear Wheel Drive (RWD),Automatic,Petrol or Diesel,142295.0
+Mercedes,Sedan,Benz CLA 2026,Electric Motor,Rear-Wheel Drive,Automatic,Electric,81950.0
+Mercedes,Van,Benz V 300 Exclusive 2025,2.0-litre four-cylinder turbo-diesel,Rear Wheel Drive,Automatic,Diesel,143785.0
+Mercedes,Van,Benz V 300 AMG 2025,2.0-litre four-cylinder turbo-diesel,Rear Wheel Drive,Automatic,Diesel,140805.0
+Mercedes,Van,Benz V 250 Avantgarde 2025,2.0-litre four-cylinder turbo-diesel,Rear Wheel Drive,Automatic,Diesel,111750.0
+Mercedes,Van,Benz V Class 2025,2.0-litre four-cylinder turbo-diesel,Rear Wheel Drive,Automatic,Diesel,104300.0
+Mercedes,Van,Benz eVito 2025,Electric motor,Front-wheel drive,Single-speed automatic,Gasoline,99875.0
+Mercedes,Van,Benz Vito 119 LWB 2025,2.0-litre four-cylinder turbo-diesel,Rear-wheel drive,9-speed automatic,Gasoline,80549.0
+Mercedes,Van,Benz Vito 116 LWB 2025,2.0-litre four-cylinder turbo-diesel,Rear-wheel drive,9-speed automatic,Gasoline,73085.0
+Mercedes,Van,Benz Vito 2025,2.0-litre four-cylinder turbo-diesel,Rear-wheel drive,9-speed automatic,Gasoline,63623.0
+Mercedes,SUV,Benz GLC Plug-In Hybrid 2025,2.0-Liter with Electric Motor,All Wheel Drive,Automatic,pulg in-hybrid,90965.0
+Mercedes,Sedan,Benz C63 S AMG E Performanc 2024,2.0L Turbo Inline-4 Plug-in Hybrid,All-Wheel Drive,Automatic,Gasoline,178800.0
+Mercedes,SUV,AMG CLE 63 S 2025,2.0L 4-cylinder Plug-in Hybrid,All-Wheel Drive,Automatic,Gasoline,163900.0
+Mercedes,SUV,GLA 200 City Edition 2024,1.33L 4-cylinder Gasoline,Front-Wheel Drive,7G-DCT automatic,Gasoline,64070.0
+Mercedes,Wagon,Benz E450 All-Terrain Edition 2024,3.0-liter Turbo Inline-6,All-wheel drive,Automatic,Premium,113240.0
+Mercedes,SUV,S Class 2026,Turbocharged 3.0-liter inline-six,All-Wheel Drive,Automatic,Gasoline,176491.0
+Mercedes,SUV,Benz GLC300 Coupe 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Premium unleaded gasoline,87910.0
+Mercedes,SUV,Benz GLC300 Coupe 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Premium unleaded gasoline,87910.0
+Mercedes,Convertible,Benz CLE53 AMG Cabriolet 2025,"443-horsepower symphony, courtesy of a turbocharged inline-six cylinder engine working in harmony with an electric motor.",All-Wheel Drive,Automatic,Gasoline,119200.0
+Mercedes,Convertible,AMG CLE53 Cabriolet 2025,"443-horsepower symphony, courtesy of a turbocharged inline-six cylinder engine working in harmony with an electric motor.",All-Wheel Drive,Automatic,Gasoline,119200.0
+Mercedes,SUV,Benz AMG GLC EV 2026,Electric,All-wheel drive,Automatic,Electric,103063.0
+Mercedes,Cargo van,Benz eSprinter 2025,Permanent Magnet Synchronous Motor,Rear wheel drive,Manual,Gasoline,94615.0
+Mercedes,Van,Benz Sprinter 2025,Two four-cylinder diesel,Rear-Wheel Drive,nine-speed automatic,Gasoline,81950.0
+Mercedes,SUV,Benz EQS 2025,Electric,All-Wheel Drive,Automatic,Electric,157940.0
+Mercedes,Sedan,AMG CLA45 S Edition 1 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,8-Speed Automatic,Premium unleaded gasoline,123670.0
+Mercedes,Sedan,Benz E350 4MATIC Sedan 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Premium,91263.0
+Mercedes,Sedan,Benz EQE Sedan 2025,Electric,Rear-Wheel Drive,Automatic,Electric,110111.0
+Mercedes,Coupe,Benz AMG GT 43 Coupe 2025,3.5L V6 Gas,AMG Performance 4MATIC+ all-wheel drive,AMG SPEEDSHIFTÂ® TCT 9-speed,Gasoline,165390.0
+Mercedes,SUV,AMG E53 Coupe 2021,Six-Cylinder Hybrid,All-Wheel Drive,Automatic,Gasoline,121137.0
+Mercedes,Sedan,Benz S-Class Sedan 2025,3.0L Turbo Inline-6 Gas,All-Wheel Drive,Automatic,Premium unleaded gasoline,175448.0
+Mercedes,SUV,Benz EQE SUV 2025,Electric,All-Wheel Drive,Automatic,Gasoline,116071.0
+Mercedes,SUV,GLS 2025,4.0-liter twin-turbo V8,All Wheel Drive,Automatic,Gasoline,131120.0
+Mercedes,Sedan,Benz CLA-Class 2025,2.0-liter Turbo Inline-4 Gas,All-Wheel Drive,Automatic,Gasoline,69285.0
+Mercedes,Sedan,AMG C63 Sedan 2025,2.0L Turbo Inline-4 Plug-in Hybrid,All-Wheel Drive,Automatic,Gasoline,157940.0
+Porsche,Coupe,Vision 357,4.0L Flat 6 Gas,Rear-Wheel Drive,Automatic,Premium,70335.5
+Porsche,SUV,K1,Electric,TBC,TBC,Electric,70335.5
+Porsche,Convertible,Boxster EV 2025,Electric,Rear-Wheel Drive,Manual,Gasoline,70335.5
+Porsche,Sports Car,918 Spyder 2025,3.5L V6 Gas,All Wheel Drive,Manual,Gasoline,70335.5
+Porsche,Convertible,718 Boxster EV 2025,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Porsche,Coupe,Cayenne S Coupe AWD 2025,4.0L Twin-Turbo V8 Gas,All-Wheel Drive,Automatic,Gasoline,169115.0
+Porsche,Coupe,Cayenne S E-Hybrid Coupe AWD 2025,3.0L Turbo V6 Plug-in Hybrid,All-Wheel Drive,Automatic,Petrol,164645.0
+Porsche,coupe,718 S Coupe 2025,2.5L Turbo Flat 4 Gas,Rear-Wheel Drive,Manual,Gasoline,119647.0
+Porsche,coupe,718 GTS 4.0 Coupe 2025,4.0L Flat 6 Gas,Rear-Wheel Drive,Manual,Gasoline,141848.0
+Porsche,coupe,911 Carrera Coupe 2025,3L H6 ICE,Rear Wheel Drive,Manual,Premium unleaded,178949.0
+Porsche,SUV,Macan Turbo S EV 2025,Electric,All Wheel Drive (AWD),Automatic,Electric,186697.0
+Porsche,Sedan,Taycan 4S Sport Turismo 2024,Electric,All-Wheel Drive,Automatic,Electric,160920.0
+Porsche,SUV,Macan Electric 2025,Electric,All-Wheel Drive,Automatic,Electric,119871.0
+Porsche,SUV,Cayenne GTS 2025,4.0-liter Twin-Turbo V8 Gas,All Wheel Drive (AWD),Automatic,Premium,189230.0
+Porsche,SUV,Cayenne Coupe 2025,3.0L Turbo V6 Gas,All Wheel Drive,Automatic,Gasoline,192955.0
+Porsche,SUV,Cayenne 2025,3.0L Turbo V6 Gas,All Wheel Drive,Automatic,Gasoline,129168.0
+Porsche,SUV,Macan Electric 2024,Electric,All-Wheel Drive,Automatic,Electric,119871.0
+Porsche,Wagon,Taycan Cross Turismo 2025,Electric,All-Wheel Drive,Automatic,Electric,168504.0
+Porsche,Hatchback,Panamera 4S E-Hybrid 2024,2.9L Twin-Turbo V6 Plug-in Hybrid,All-Wheel Drive,Automatic,Plug-in Hybrid,188932.0
+Porsche,Sedan,Taycan 4S 2025,Electric,All-Wheel Drive,Automatic,Electric,176565.0
+Porsche,Sedan,Taycan 4S Sport Turismo 2025,Electric,All-Wheel Drive,Automatic,Electric,160920.0
+Porsche,SUV,Macan 4 Electric 2024,Electric,All-Wheel Drive,Automatic,Electric,119871.0
+Porsche,SUV,Panamera 2025,2.9L Twin-Turbo V6 Plug-in Hybrid,All-Wheel Drive,Automatic,Plug-In Hybrid,153172.0
+Porsche,SUV,Cayenne E-Hybrid 2025,3.0L Turbo V6 Plug-in Hybrid,All-Wheel Drive,Automatic,Plug-In Electric/Gas,144828.0
+Porsche,Coupe,911 Carrera 2025,3.0-liter Twin-Turbo Flat 6 Gas,Rear Wheel Drive,Automatic,Gasoline,178949.0
+Suzuki,Coupe,Misano Concept 2024,Dual-Motor Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Suzuki,SUV,EVX electric SUV 2025,Electric,All-Wheel Drive,Automatic,Gasoline,70335.5
+Suzuki,SUV,EVX electric SUV,Electric,All-Wheel Drive,Automatic,Gasoline,70335.5
+Suzuki,Wagon,Every 2025,"R06A, DOHC, 3-cylinder, 12-valves",front Wheel Drive,Manual,Gasoline,70335.5
+Suzuki,SUV,Jimny Hybrid 2025,1.5-litre naturally Hybrid,Rear-Wheel Drive,Transmission options include a 5-speed manual box and a 4-speed automatic box.,Gasoline,70335.5
+Suzuki,Mini-van,Every VXR 2024,660c VVT,FWD,Manual,Petrol,15049.0
+Suzuki,Mini-van,Every VX 2024,660c VVT,FWD,Manual,Petrol,14766.0
+Suzuki,Hatchback,Alto VXR AGS 2024,K-series Engine,FWD,Automatic (AGS),Petrol,15496.0
+Suzuki,Hatchback,Alto VXL 2024,K-series Engine,FWD,Automatic (AGS),Petrol,16286.0
+Suzuki,SUV,Jimny Horizon Edition 2024,1.5-litre naturally,Rear-Wheel Drive,Transmission options include a 5-speed manual box and a 4-speed automatic box.,Gasoline,52150.0
+Suzuki,SUV,eVX (Fully Electric),Electric,All-Wheel Drive,Automatic,Gasoline,39187.0
+Suzuki,SUV,Jimny XL Heritage,naturally-aspirated 1.5-liter four-cylinder,Four-Wheel Drive,Manual,Gasoline,36296.0
+Suzuki,SUV,XL7 2025,3.5L V6 Gas,FWD,Automatic,Petrol,32482.0
+Suzuki,SUV,Ravi Euro ll 2024,Petrol,Front-Wheel Drive,Manual,Petrol,9909.0
+Suzuki,SUV,Jimny GA MT 2024,Petrol,Front-Wheel Drive,Manual,Gasoline,32139.0
+Suzuki,SUV,Jimny EV 2025,Electric,Rear-Wheel Drive,Automatic,Gasoline,25330.0
+Suzuki,Hatchback,Baleno 2024,"1.5 Litre, 4 Cylinders",Front wheel drive,Automatic,Petrol,24555.0
+Suzuki,SUV,Jimny with G-Class Body Kit 2024,Turbocharged 658-cc three-cylinder,four-wheel drive,five-speed manual or a four-speed automatic,Gasoline,34270.0
+Suzuki,Hatchback,Swift GLX CVT 2023,3.5L V6 Gas,Rear-Wheel Drive,Automatic,Petrol,26001.0
+Suzuki,Hatchback,Swift GL CVT 2023,3.5L V6 Gas,Rear-Wheel Drive,Automatic (CVT),Petrol,24302.0
+Suzuki,Hatchback,Swift GL Manual 2023,3.5L V6 Gas,Front-Wheel Drive,Manual,Petrol,22618.0
+Suzuki,Wagon,Every 2024,"R06A, DOHC, 3-cylinder, 12-valves",front Wheel Drive,Manual,Gasoline,21605.0
+Suzuki,Hatchback,Swift 2025,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,33510.0
+Suzuki,SUV,Brezza ZXI Plus 2024,K15C Smart,Front Wheel Drive,Manual,Petrol,23393.0
+Suzuki,SUV,Brezza ZXI AT 2024,K15C Smart Hybrid,Front Wheel Drive,Automatic,Petrol,23810.0
+Suzuki,SUV,Brezza VXI AT 2024,K15C Smart Hybrid,Rear-Wheel Drive,Automatic,Gasoline,23557.0
+Suzuki,SUV,QX80 Luxe 2024,3.5L V6 Gas,Rear-Wheel Drive,Manual,Gasoline,17999.0
+Suzuki,SUV,QX80 Luxe 2024,3.5L V6 Gas,Rear-Wheel Drive,Manual,Gasoline,49900.0
+Suzuki,Wagon,Every 2023,"R06A, DOHC, 3-cylinder, 12-valves",front Wheel Drive,Manual,Gasoline,18625.0
+Suzuki,SUV,XL6 Zeta AT 2024,K15C Smart Hybrid,Front Wheel Drive,Automatic,Petrol,26969.0
+Suzuki,SUV,Brezza VXI 2024,K15C Smart Hybrid,Front Wheel Drive,Automatic,Petrol,20741.0
+Suzuki,Hatchback,lgnis Sigma 2024,VVT,Front Wheel Drive,Manual,Petrol,11920.0
+Suzuki,Sedan,Dzire 2024,Hybrid Petrol,Front Wheel Drive,Manual,Petrol,20085.0
+Suzuki,Sedan,Dzire ZXI Plus AT 2024,Hybrid Petrol,Front Wheel Drive,Automatic,Petrol,20145.0
+Suzuki,SUV,Ertiga ZXI 2024,K15C Smart Hybrid,Front Wheel Drive,Manual,Petrol,20681.0
+Suzuki,SUV,XL6 Zeta 2024,K15C Smart Hybrid,Front Wheel Drive,Manual,Petrol,24585.0
+Suzuki,SUV,XL6 Alpha 2024,K15C Smart Hybrid,Front Wheel Drive,Manual,Petrol,26015.0
+Suzuki,Sedan,Ciaz Alpha 2024,K15 Smart Hybrid,Front Wheel Drive,Manual,Petrol,22276.0
+Suzuki,Sedan,Ciaz 2024,K15 Smart Hybrid Petrol,Front Wheel Drive,Automatic,Petrol,19817.0
+Suzuki,SUV,Brezza ZXI DT 2024,K15C Smart Hybrid,Front Wheel Drive,Manual,Petrol,23691.0
+Suzuki,Hatchback,S Presso 2024,K10C,Front Wheel Drive,Automatic,Petrol,10356.0
+Suzuki,SUV,XL7 2024,3.5L V6 Gas,FWD,Automatic,Petrol,24883.0
+Suzuki,Sedan,Ciaz K15 Zeta 2024,1.5L 4 cylinder Petrol,Front-Wheel Drive,Manual,Petrol,23706.0
+Suzuki,Sedan,Ciaz Zeta 2024,1.5L 4 cylinder Petrol,Four-Wheel Drive,Manual,Petrol,21680.0
+Suzuki,Hatchback,Ciaz K15 DELTA AMT 2024,K15B 1.2-litre engine,Four-Wheel Drive,Automatic,Petrol,24272.0
+Suzuki,Hatchback,Baleno Delta 2024,1197 cc,All wheel drive,Automatic,Petrol,18804.0
+Suzuki,Hatchback,Baleno Delta AMT 2024,1197 cc,All wheel drive,Automatic,Petrol,17969.0
+Suzuki,Hatchback,Baleno Sigma 2024,1197 cc,All wheel drive,Automatic,Petrol,13172.0
+Suzuki,SUV,SX4 2024,1.4 Litre Turbocharged Petrol,Rear-Wheel Drive,Automatic,Petrol,50645.0
+Suzuki,Hatchback,Swift 2024,3.5L V6 Gas,Front-Wheel Drive,Automatic,Petrol,24391.0
+Suzuki,Crossover,Vitara 2024,1.6-liter M16 naturally-aspirated,Front-Wheel Drive,Automatic,Petrol,40960.0
+Suzuki,SUV,Jimny 2024,1.5-litre naturally,Rear-Wheel Drive,Transmission options include a 5-speed manual box and a 4-speed automatic box.,Gasoline,29800.0
+Suzuki,SUV,Jimny 2023,1.5-litre naturally,Rear-Wheel Drive,Transmission options include a 5-speed manual box and a 4-speed automatic box.,Gasoline,25330.0
+Suzuki,SUV,Jimny Five-Door 2023,1.5-litre naturally,Four Wheel Drive,Automatic,Gasoline,25330.0
+Suzuki,Wagon,Kei Van 2024,"R06A, DOHC, 3-cylinder, 12-valves",Four Wheel Drive,Manual,Gasoline,20115.0
+Suzuki,Wagon,Kei Van 2023,"R06A, DOHC, 3-cylinder, 12-valves",Four Wheel Drive,Manual,Gasoline,18625.0
+Suzuki,SUV,S-Cross Hybrid 2022,1.5-liter Boosterjet Mild Hybrid,Rear-Wheel Drive,Manual,Plug-In Hybrid,48783.0
+Suzuki,Hatchback,Wagon R ZXI AT 2024,K12N,Front Wheel Drive,Automatic,Petrol,14721.0
+Suzuki,SUV,Brezza 2024,K15C Smart Hybrid,Front Wheel Drive,Automatic,Petrol,18923.0
+Suzuki,SUV,Brezza ZXI Plus AT DT 2024,K15C Smart Hybrid,Front Wheel Drive,Automatic,Petrol,29130.0
+Suzuki,SUV,Brezza ZXI Plus AT 2024,K15C Smart Hybrid,Front Wheel Drive,Automatic,Petrol,20279.0
+Suzuki,SUV,S Cross 2023,K15B Smart Hybrid,Front-Wheel Drive,Automatic,Petrol,26850.0
+Suzuki,Sedan,Ciaz K15 Alpha AT 2023,1.5L 4 cylinder Petrol,Four-Wheel Drive,Automatic,Petrol,25956.0
+Suzuki,Sedan,Ciaz K15 Alpha 2023,1.5L 4 cylinder Petrol,Four-Wheel Drive,Manual,Petrol,22767.0
+Suzuki,Sedan,Dzire ZXI AT 2023,Hybrid Petrol,Front Wheel Drive,Automatic,Petrol,16389.0
+Infiniti,SUV,Electric Vehicle 2025,Electric,All Wheel Drive,Automatic,Gasoline,70335.5
+Infiniti,SUV,QS Inspiration 2025,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Infiniti,Sedan,Flagship EV 2023,Electric,All-Wheel Drive,Automatic,Electric,70335.5
+Infiniti,SUV,QX65 2025,Hybrid,All-Wheel Drive,Automatic,Gasoline,70335.5
+Infiniti,SUV,QX Monograph Concept,5.6L V8,All-Wheel Drive,Automatic,Gasoline,70335.5
+Infiniti,SUV,QX60 Black Edition 2025,3.5L V6 Gas,Front-Wheel Drive,9-Speed Automatic,Gasoline,74798.0
+Infiniti,SUV,QX60 2025,3.5L V6 Gas,Front-Wheel Drive,9-Speed Automatic,Gasoline,74798.0
+Infiniti,SUV,QX4 2025,Twin Turbo V6,Rear-Wheel Drive,Automatic,Gasoline,81950.0
+Infiniti,Coupe,Q60 2025,3.0-liter Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Premium,89400.0
+Infiniti,SUV,QX60 AUTOGRAPH AWD 2024,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,98489.0
+Infiniti,Sedan,Q50 Red Sport 400 2024,3.0L Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,87761.0
+Infiniti,Sedan,Q50 SENSORY AWD 2024,3.0L Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,75618.0
+Infiniti,Sedan,Q50 LUXE AWD 2024,3.0-liter Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,67125.0
+Infiniti,Sedan,Q50 2025,3.0-liter Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,86644.0
+Infiniti,SUV,QX55 2025,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,74500.0
+Infiniti,SUV,QX50 SPORT AWD 2024,2.0-liter Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,76065.0
+Infiniti,SUV,QX50 Luxe AWD 2024,2.0-liter Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,68764.0
+Infiniti,SUV,QX50 Pure AWD 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,63847.0
+Infiniti,SUV,QX50 Pure 2025,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,64070.0
+Infiniti,SUV,QX80 Sensory 4WD 2024,5.6-liter V8 Gas,Four-Wheel Drive,Automatic,Gasoline,131791.0
+Infiniti,SUV,QX80 Premium Select AWD 2024,5.6-liter V8 Gas,Four-Wheel Drive,Automatic,Gasoline,121286.0
+Infiniti,SUV,QX80 Luxe 2024,5.6L V8 Gas,Four-Wheel Drive,Automatic,Gasoline,115177.0
+Infiniti,Sedan,Q50 EV 2025,Electric,All-Wheel Drive,Automatic,Electric,64070.0
+Infiniti,SUV,QX80 2025,5.6L V8,All-Wheel Drive,Automatic,Gasoline,149000.0
+Infiniti,SUV,QX80 Luxe 2024,5.6L V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,110484.0
+Infiniti,SUV,QX80 Luxe 2024,5.6L V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,105790.0
+Infiniti,SUV,QX50 Pure 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,63102.0
+Infiniti,SUV,QX50 Pure 2023,2.0L Turbo Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,60047.0
+Infiniti,SUV,QX50 ESSENTIAL 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,74500.0
+Infiniti,SUV,Q60 3.0t Pure AWD 2024,3.0-liter Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Premium,71148.0
+Infiniti,SUV,QX50 SENSORY AWD 2024,2.0L Turbo Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,82472.0
+Infiniti,Coupe,Q60 Red Sport 400 AWD 2024,3.0L Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Premium,94168.0
+Infiniti,SUV,QX55 Sensory AWD 2024,2.0L Turbo Inline-4 Gas,All Wheel Drive,Continuously Variable Automatic,Gasoline,87389.0
+Infiniti,SUV,QX60 LUXE AWD 2024,3.5L V6 Gas,All-Wheel Drive,Automatic,Gasoline,85973.0
+Infiniti,Coupe,Q60 3.0t Pure 2024,3.0-liter Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Premium,66678.0
+Infiniti,Coupe,Q60 2024,3.0-liter Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Premium,67423.0
+Infiniti,Coupe,Q60 Red Sport 400 2024,3.0L Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Premium,92678.0
+Infiniti,SUV,QX80 Sensory AWD 2023,5.6-liter V8 Gas,Four-Wheel Drive,Automatic,Gasoline,130301.0
+Infiniti,SUV,QX80 Premium Select 2023,5.6-liter V8 Gas,Four-Wheel Drive,Automatic,Gasoline,119796.0
+Infiniti,SUV,QX80 Luxe AWD 2023,5.6L V8 Gas,Four-Wheel Drive,Automatic,Gasoline,112942.0
+Infiniti,SUV,QX60 Pure 2024,3.5L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,73979.0
+Infiniti,SUV,QX50 SENSORY 2024,2.0L Turbo Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,84781.0
+Infiniti,Sedan,Q50 Red Sport 400 AWD 2023,3.0L Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,87165.0
+Infiniti,Sedan,Q50 3.0t Luxe AWD 2023,3.0-liter Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,66529.0
+Infiniti,SUV,QX50 SPORT 2023,2.0-liter Turbo Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,72265.0
+Infiniti,SUV,QX50 SPORT 2024,2.0-liter Turbo Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,73085.0
+Infiniti,SUV,QX50 Luxe 2024,2.0-liter Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,65784.0
+Infiniti,Sedan,Q50 3.0t Sensory 2024,3.0L Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,72638.0
+Infiniti,Sedan,Q50 3.0t SENSORY 2023,3.0L Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,72042.0
+Infiniti,SUV,QX80 Sensory 2024,5.6-liter V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,127172.0
+Infiniti,SUV,QX80 Premium Select 2024,5.6-liter V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,116667.0
+Infiniti,SUV,QX80 Luxe 2023,5.6L V8 Gas,Rear-Wheel Drive,Automatic,Gasoline,108323.0
+Infiniti,SUV,QX55 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,74500.0
+Infiniti,SUV,QX50 AUTOGRAPH 2024,2.0L Turbo Inline-4 Gas,All-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,86346.0
+Infiniti,SUV,QX50 Pure 2024,2.0L Turbo Inline-4 Gas,Front-Wheel Drive,Continuously Variable Automatic (CVT),Gasoline,60867.0
+Infiniti,Sedan,Q50 Red Sport 400 2024,3.0L Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,84781.0
+Infiniti,Sedan,Q50 3.0t Luxe 2024,3.0-liter Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,64219.0
+Infiniti,Sedan,Q50 3.0t Luxe 2023,3.0-liter Twin-Turbo V6 Gas,Rear-Wheel Drive,Automatic,Gasoline,64145.0
+Infiniti,Sedan,Q50 3.0t Sensory 2024,3.0-liter Twin-Turbo V6 Gas,All-Wheel Drive,Automatic,Gasoline,78002.0
+Infiniti,SUV,QX55 Sensory 2024,2.0L Turbo Inline-4 Gas,All Wheel Drive (AWD),Continuously Variable Automatic (CVT),Gasoline,87389.0
+Infiniti,SUV,QX60 SENSORY 2024,3.5L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,87985.0
+Infiniti,SUV,QX60 SENSORY 2023,3.5L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,87314.0
+Infiniti,SUV,QX60 AUTOGRAPH 2024,3.5L V6 Ga,Front-Wheel Drive,Automatic,Gasoline,94168.0
+Infiniti,SUV,QX60 2024,3.5L V6 Gas,Front-Wheel Drive,9-Speed Automatic,Gasoline,75990.0
+Infiniti,SUV,QX60 LUXE 2024,3.5L V6 Gas,Front-Wheel Drive,Automatic,Gasoline,82993.0
